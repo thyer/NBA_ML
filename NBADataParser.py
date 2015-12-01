@@ -12,12 +12,12 @@ def main():
 
     featuresAndTypes = sys.argv[1].split(";")
     print(featuresAndTypes)
-    write_arff(featuresAndTypes, sys.argv[2], sys.argv[3])
+    write_arff(featuresAndTypes, "data/" + sys.argv[2], sys.argv[3])
 
 
 def write_arff(featuresAndTypes, filename, outputfile):
 
-    arff = open(outputfile, 'w+')
+    arff = open("arffs/" + outputfile, 'w+')
     arff.write('@relation ' + filename.split('.')[0] + '\n')
 
     all_teams = set()
