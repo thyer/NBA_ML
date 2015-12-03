@@ -1,0 +1,4523 @@
+[{
+	"player_id": 708,
+	"team_id": 21,
+	"player_name": "Kevin Garnett",
+	"birth_date": 201326400,
+	"position": "240",
+	"draftkings_id": 2989
+}, {
+	"player_id": 951,
+	"team_id": 34,
+	"player_name": "Ray Allen",
+	"birth_date": 175060800,
+	"position": "205",
+	"draftkings_id": 0
+}, {
+	"player_id": 959,
+	"team_id": 10,
+	"player_name": "Steve Nash",
+	"birth_date": 129441600,
+	"position": "178",
+	"draftkings_id": 3085
+}, {
+	"player_id": 965,
+	"team_id": 6,
+	"player_name": "Derek Fisher",
+	"birth_date": 145252800,
+	"position": "210",
+	"draftkings_id": 0
+}, {
+	"player_id": 977,
+	"team_id": 24,
+	"player_name": "Kobe Bryant",
+	"birth_date": 272692800,
+	"position": "212",
+	"draftkings_id": 3100
+}, {
+	"player_id": 979,
+	"team_id": 7,
+	"player_name": "Jermaine O'Neal",
+	"birth_date": 277099200,
+	"position": "255",
+	"draftkings_id": 0
+}, {
+	"player_id": 1495,
+	"team_id": 21,
+	"player_name": "Tim Duncan",
+	"birth_date": 199256400,
+	"position": "250",
+	"draftkings_id": 3155
+}, {
+	"player_id": 1497,
+	"team_id": 1,
+	"player_name": "Chauncey Billups",
+	"birth_date": 212472000,
+	"position": "210",
+	"draftkings_id": 0
+}, {
+	"player_id": 1536,
+	"team_id": 0,
+	"player_name": "Stephen Jackson",
+	"birth_date": 260600400,
+	"position": "",
+	"draftkings_id": 0
+}, {
+	"player_id": 1712,
+	"team_id": 0,
+	"player_name": "Antawn Jamison",
+	"birth_date": 203400000,
+	"position": "",
+	"draftkings_id": 0
+}, {
+	"player_id": 1713,
+	"team_id": 15,
+	"player_name": "Vince Carter",
+	"birth_date": 223102800,
+	"position": "220",
+	"draftkings_id": 3230
+}, {
+	"player_id": 1717,
+	"team_id": 41,
+	"player_name": "Dirk Nowitzki",
+	"birth_date": 267076800,
+	"position": "245",
+	"draftkings_id": 3234
+}, {
+	"player_id": 1718,
+	"team_id": 34,
+	"player_name": "Paul Pierce",
+	"birth_date": 245563200,
+	"position": "235",
+	"draftkings_id": 3235
+}, {
+	"player_id": 1733,
+	"team_id": 7,
+	"player_name": "Al Harrington",
+	"birth_date": 319611600,
+	"position": "245",
+	"draftkings_id": 0
+}, {
+	"player_id": 1737,
+	"team_id": 48,
+	"player_name": "Nazr Mohammed",
+	"birth_date": 242280000,
+	"position": "250",
+	"draftkings_id": 3254
+}, {
+	"player_id": 1740,
+	"team_id": 9,
+	"player_name": "Rashard Lewis",
+	"birth_date": 302932800,
+	"position": "235",
+	"draftkings_id": 0
+}, {
+	"player_id": 1882,
+	"team_id": 7,
+	"player_name": "Elton Brand",
+	"birth_date": 289976400,
+	"position": "254",
+	"draftkings_id": 3306
+}, {
+	"player_id": 1889,
+	"team_id": 24,
+	"player_name": "Andre Miller",
+	"birth_date": 196059600,
+	"position": "200",
+	"draftkings_id": 3313
+}, {
+	"player_id": 1890,
+	"team_id": 31,
+	"player_name": "Shawn Marion",
+	"birth_date": 263361600,
+	"position": "228",
+	"draftkings_id": 3314
+}, {
+	"player_id": 1891,
+	"team_id": 31,
+	"player_name": "Jason Terry",
+	"birth_date": 243144000,
+	"position": "185",
+	"draftkings_id": 3315
+}, {
+	"player_id": 1897,
+	"team_id": 37,
+	"player_name": "Metta World Peace",
+	"birth_date": 311317200,
+	"position": "260",
+	"draftkings_id": 3321
+}, {
+	"player_id": 1905,
+	"team_id": 0,
+	"player_name": "Andrei Kirilenko",
+	"birth_date": 351320400,
+	"position": "",
+	"draftkings_id": 3329
+}, {
+	"player_id": 1938,
+	"team_id": 20,
+	"player_name": "Manu Ginobili",
+	"birth_date": 238910400,
+	"position": "205",
+	"draftkings_id": 3361
+}, {
+	"player_id": 2030,
+	"team_id": 0,
+	"player_name": "Kenyon Martin",
+	"birth_date": 252306000,
+	"position": "",
+	"draftkings_id": 3381
+}, {
+	"player_id": 2034,
+	"team_id": 3,
+	"player_name": "Mike Miller",
+	"birth_date": 319784400,
+	"position": "218",
+	"draftkings_id": 3385
+}, {
+	"player_id": 2037,
+	"team_id": 11,
+	"player_name": "Jamal Crawford",
+	"birth_date": 322376400,
+	"position": "195",
+	"draftkings_id": 3388
+}, {
+	"player_id": 2045,
+	"team_id": 15,
+	"player_name": "Hedo Turkoglu",
+	"birth_date": 290667600,
+	"position": "220",
+	"draftkings_id": 3396
+}, {
+	"player_id": 2198,
+	"team_id": 54,
+	"player_name": "Kwame Brown",
+	"birth_date": 384584400,
+	"position": "290",
+	"draftkings_id": 0
+}, {
+	"player_id": 2199,
+	"team_id": 4,
+	"player_name": "Tyson Chandler",
+	"birth_date": 402379200,
+	"position": "240",
+	"draftkings_id": 3493
+}, {
+	"player_id": 2200,
+	"team_id": 16,
+	"player_name": "Pau Gasol",
+	"birth_date": 331704000,
+	"position": "250",
+	"draftkings_id": 3494
+}, {
+	"player_id": 2202,
+	"team_id": 23,
+	"player_name": "Jason Richardson",
+	"birth_date": 348814800,
+	"position": "225",
+	"draftkings_id": 3496
+}, {
+	"player_id": 2203,
+	"team_id": 31,
+	"player_name": "Shane Battier",
+	"birth_date": 274161600,
+	"position": "220",
+	"draftkings_id": 0
+}, {
+	"player_id": 2207,
+	"team_id": 7,
+	"player_name": "Joe Johnson",
+	"birth_date": 362635200,
+	"position": "240",
+	"draftkings_id": 3501
+}, {
+	"player_id": 2210,
+	"team_id": 24,
+	"player_name": "Richard Jefferson",
+	"birth_date": 330408000,
+	"position": "233",
+	"draftkings_id": 3504
+}, {
+	"player_id": 2215,
+	"team_id": 98,
+	"player_name": "Jason Collins",
+	"birth_date": 281422800,
+	"position": "255",
+	"draftkings_id": 0
+}, {
+	"player_id": 2216,
+	"team_id": 50,
+	"player_name": "Zach Randolph",
+	"birth_date": 364104000,
+	"position": "260",
+	"draftkings_id": 3512
+}, {
+	"player_id": 2217,
+	"team_id": 33,
+	"player_name": "Brendan Haywood",
+	"birth_date": 312526800,
+	"position": "263",
+	"draftkings_id": 3513
+}, {
+	"player_id": 2222,
+	"team_id": 45,
+	"player_name": "Gerald Wallace",
+	"birth_date": 396244800,
+	"position": "220",
+	"draftkings_id": 3514
+}, {
+	"player_id": 2223,
+	"team_id": 0,
+	"player_name": "Samuel Dalembert",
+	"birth_date": 358315200,
+	"position": "",
+	"draftkings_id": 3515
+}, {
+	"player_id": 2224,
+	"team_id": 0,
+	"player_name": "Jamaal Tinsley",
+	"birth_date": 257490000,
+	"position": "",
+	"draftkings_id": 0
+}, {
+	"player_id": 2225,
+	"team_id": 9,
+	"player_name": "Tony Parker",
+	"birth_date": 390456000,
+	"position": "185",
+	"draftkings_id": 3508
+}, {
+	"player_id": 2229,
+	"team_id": 8,
+	"player_name": "Mike James",
+	"birth_date": 172728000,
+	"position": "188",
+	"draftkings_id": 0
+}, {
+	"player_id": 2248,
+	"team_id": 17,
+	"player_name": "Earl Watson",
+	"birth_date": 298008000,
+	"position": "199",
+	"draftkings_id": 0
+}, {
+	"player_id": 2365,
+	"team_id": 11,
+	"player_name": "Chris Andersen",
+	"birth_date": 268632000,
+	"position": "245",
+	"draftkings_id": 75344
+}, {
+	"player_id": 2399,
+	"team_id": 34,
+	"player_name": "Mike Dunleavy",
+	"birth_date": 337838400,
+	"position": "230",
+	"draftkings_id": 168066
+}, {
+	"player_id": 2400,
+	"team_id": 90,
+	"player_name": "Drew Gooden",
+	"birth_date": 370152000,
+	"position": "250",
+	"draftkings_id": 168010
+}, {
+	"player_id": 2403,
+	"team_id": 42,
+	"player_name": "Nene",
+	"birth_date": 400737600,
+	"position": "250",
+	"draftkings_id": 168013
+}, {
+	"player_id": 2405,
+	"team_id": 5,
+	"player_name": "Amar'e Stoudemire",
+	"birth_date": 406270800,
+	"position": "245",
+	"draftkings_id": 168015
+}, {
+	"player_id": 2406,
+	"team_id": 31,
+	"player_name": "Caron Butler",
+	"birth_date": 321771600,
+	"position": "228",
+	"draftkings_id": 168016
+}, {
+	"player_id": 2408,
+	"team_id": 4,
+	"player_name": "Melvin Ely",
+	"birth_date": 262929600,
+	"position": "260",
+	"draftkings_id": 0
+}, {
+	"player_id": 2419,
+	"team_id": 12,
+	"player_name": "Tayshaun Prince",
+	"birth_date": 320562000,
+	"position": "212",
+	"draftkings_id": 168029
+}, {
+	"player_id": 2422,
+	"team_id": 0,
+	"player_name": "John Salmons",
+	"birth_date": 313822800,
+	"position": "",
+	"draftkings_id": 168032
+}, {
+	"player_id": 2427,
+	"team_id": 0,
+	"player_name": "Roger Mason Jr.",
+	"birth_date": 337406400,
+	"position": "",
+	"draftkings_id": 0
+}, {
+	"player_id": 2430,
+	"team_id": 5,
+	"player_name": "Carlos Boozer",
+	"birth_date": 375080400,
+	"position": "258",
+	"draftkings_id": 168040
+}, {
+	"player_id": 2440,
+	"team_id": 22,
+	"player_name": "Matt Barnes",
+	"birth_date": 321426000,
+	"position": "226",
+	"draftkings_id": 168051
+}, {
+	"player_id": 2446,
+	"team_id": 18,
+	"player_name": "Rasual Butler",
+	"birth_date": 296280000,
+	"position": "215",
+	"draftkings_id": 168058
+}, {
+	"player_id": 2449,
+	"team_id": 4,
+	"player_name": "Luis Scola",
+	"birth_date": 325915200,
+	"position": "240",
+	"draftkings_id": 168061
+}, {
+	"player_id": 2457,
+	"team_id": 0,
+	"player_name": "Jannero Pargo",
+	"birth_date": 309412800,
+	"position": "",
+	"draftkings_id": 171438
+}, {
+	"player_id": 2501,
+	"team_id": 30,
+	"player_name": "Reggie Evans",
+	"birth_date": 327470400,
+	"position": "245",
+	"draftkings_id": 173147
+}, {
+	"player_id": 2544,
+	"team_id": 23,
+	"player_name": "LeBron James",
+	"birth_date": 473230800,
+	"position": "250",
+	"draftkings_id": 214152
+}, {
+	"player_id": 2546,
+	"team_id": 7,
+	"player_name": "Carmelo Anthony",
+	"birth_date": 454651200,
+	"position": "240",
+	"draftkings_id": 172890
+}, {
+	"player_id": 2547,
+	"team_id": 1,
+	"player_name": "Chris Bosh",
+	"birth_date": 448952400,
+	"position": "235",
+	"draftkings_id": 172631
+}, {
+	"player_id": 2548,
+	"team_id": 3,
+	"player_name": "Dwyane Wade",
+	"birth_date": 380091600,
+	"position": "220",
+	"draftkings_id": 61849
+}, {
+	"player_id": 2549,
+	"team_id": 35,
+	"player_name": "Chris Kaman",
+	"birth_date": 388814400,
+	"position": "265",
+	"draftkings_id": 62176
+}, {
+	"player_id": 2550,
+	"team_id": 12,
+	"player_name": "Kirk Hinrich",
+	"birth_date": 347259600,
+	"position": "190",
+	"draftkings_id": 57820
+}, {
+	"player_id": 2555,
+	"team_id": 4,
+	"player_name": "Nick Collison",
+	"birth_date": 341380800,
+	"position": "255",
+	"draftkings_id": 57819
+}, {
+	"player_id": 2557,
+	"team_id": 13,
+	"player_name": "Luke Ridnour",
+	"birth_date": 350888400,
+	"position": "175",
+	"draftkings_id": 62414
+}, {
+	"player_id": 2561,
+	"team_id": 30,
+	"player_name": "David West",
+	"birth_date": 336369600,
+	"position": "250",
+	"draftkings_id": 57934
+}, {
+	"player_id": 2563,
+	"team_id": 31,
+	"player_name": "Dahntay Jones",
+	"birth_date": 346741200,
+	"position": "225",
+	"draftkings_id": 55160
+}, {
+	"player_id": 2564,
+	"team_id": 33,
+	"player_name": "Boris Diaw",
+	"birth_date": 387781200,
+	"position": "250",
+	"draftkings_id": 214157
+}, {
+	"player_id": 2566,
+	"team_id": 25,
+	"player_name": "Travis Outlaw",
+	"birth_date": 464328000,
+	"position": "207",
+	"draftkings_id": 0
+}, {
+	"player_id": 2570,
+	"team_id": 5,
+	"player_name": "Kendrick Perkins",
+	"birth_date": 468910800,
+	"position": "270",
+	"draftkings_id": 214162
+}, {
+	"player_id": 2571,
+	"team_id": 19,
+	"player_name": "Leandro Barbosa",
+	"birth_date": 407307600,
+	"position": "194",
+	"draftkings_id": 214163
+}, {
+	"player_id": 2581,
+	"team_id": 22,
+	"player_name": "Steve Blake",
+	"birth_date": 320389200,
+	"position": "172",
+	"draftkings_id": 58258
+}, {
+	"player_id": 2584,
+	"team_id": 34,
+	"player_name": "Willie Green",
+	"birth_date": 365140800,
+	"position": "205",
+	"draftkings_id": 58948
+}, {
+	"player_id": 2585,
+	"team_id": 27,
+	"player_name": "Zaza Pachulia",
+	"birth_date": 445237200,
+	"position": "275",
+	"draftkings_id": 214168
+}, {
+	"player_id": 2586,
+	"team_id": 4,
+	"player_name": "Keith Bogans",
+	"birth_date": 326952000,
+	"position": "215",
+	"draftkings_id": 0
+}, {
+	"player_id": 2588,
+	"team_id": 15,
+	"player_name": "Matt Bonner",
+	"birth_date": 323758800,
+	"position": "235",
+	"draftkings_id": 57782
+}, {
+	"player_id": 2590,
+	"team_id": 52,
+	"player_name": "Mo Williams",
+	"birth_date": 409122000,
+	"position": "198",
+	"draftkings_id": 65834
+}, {
+	"player_id": 2592,
+	"team_id": 1,
+	"player_name": "James Jones",
+	"birth_date": 339480000,
+	"position": "218",
+	"draftkings_id": 58360
+}, {
+	"player_id": 2594,
+	"team_id": 26,
+	"player_name": "Kyle Korver",
+	"birth_date": 353653200,
+	"position": "212",
+	"draftkings_id": 58293
+}, {
+	"player_id": 2617,
+	"team_id": 40,
+	"player_name": "Udonis Haslem",
+	"birth_date": 329371200,
+	"position": "235",
+	"draftkings_id": 226806
+}, {
+	"player_id": 2694,
+	"team_id": 21,
+	"player_name": "Josh Powell",
+	"birth_date": 412318800,
+	"position": "240",
+	"draftkings_id": 65750
+}, {
+	"player_id": 2730,
+	"team_id": 12,
+	"player_name": "Dwight Howard",
+	"birth_date": 502866000,
+	"position": "265",
+	"draftkings_id": 253975
+}, {
+	"player_id": 2732,
+	"team_id": 7,
+	"player_name": "Ben Gordon",
+	"birth_date": 418280400,
+	"position": "205",
+	"draftkings_id": 65900
+}, {
+	"player_id": 2733,
+	"team_id": 34,
+	"player_name": "Shaun Livingston",
+	"birth_date": 495259200,
+	"position": "192",
+	"draftkings_id": 253980
+}, {
+	"player_id": 2734,
+	"team_id": 34,
+	"player_name": "Devin Harris",
+	"birth_date": 415170000,
+	"position": "185",
+	"draftkings_id": 65820
+}, {
+	"player_id": 2735,
+	"team_id": 0,
+	"player_name": "Josh Childress",
+	"birth_date": 424929600,
+	"position": "",
+	"draftkings_id": 0
+}, {
+	"player_id": 2736,
+	"team_id": 9,
+	"player_name": "Luol Deng",
+	"birth_date": 482475600,
+	"position": "220",
+	"draftkings_id": 229569
+}, {
+	"player_id": 2738,
+	"team_id": 9,
+	"player_name": "Andre Iguodala",
+	"birth_date": 444114000,
+	"position": "215",
+	"draftkings_id": 173004
+}, {
+	"player_id": 2740,
+	"team_id": 0,
+	"player_name": "Andris Biedrins",
+	"birth_date": 512802000,
+	"position": "",
+	"draftkings_id": 0
+}, {
+	"player_id": 2742,
+	"team_id": 0,
+	"player_name": "Sebastian Telfair",
+	"birth_date": 487137600,
+	"position": "",
+	"draftkings_id": 0
+}, {
+	"player_id": 2743,
+	"team_id": 43,
+	"player_name": "Kris Humphries",
+	"birth_date": 476514000,
+	"position": "235",
+	"draftkings_id": 229649
+}, {
+	"player_id": 2744,
+	"team_id": 25,
+	"player_name": "Al Jefferson",
+	"birth_date": 473662800,
+	"position": "289",
+	"draftkings_id": 253995
+}, {
+	"player_id": 2746,
+	"team_id": 5,
+	"player_name": "Josh Smith",
+	"birth_date": 502606800,
+	"position": "225",
+	"draftkings_id": 253996
+}, {
+	"player_id": 2747,
+	"team_id": 5,
+	"player_name": "J.R. Smith",
+	"birth_date": 495086400,
+	"position": "225",
+	"draftkings_id": 253997
+}, {
+	"player_id": 2748,
+	"team_id": 1,
+	"player_name": "Dorell Wright",
+	"birth_date": 502347600,
+	"position": "205",
+	"draftkings_id": 253998
+}, {
+	"player_id": 2749,
+	"team_id": 1,
+	"player_name": "Jameer Nelson",
+	"birth_date": 382078800,
+	"position": "190",
+	"draftkings_id": 61934
+}, {
+	"player_id": 2754,
+	"team_id": 9,
+	"player_name": "Tony Allen",
+	"birth_date": 379573200,
+	"position": "213",
+	"draftkings_id": 172922
+}, {
+	"player_id": 2755,
+	"team_id": 23,
+	"player_name": "Kevin Martin",
+	"birth_date": 412923600,
+	"position": "199",
+	"draftkings_id": 66903
+}, {
+	"player_id": 2756,
+	"team_id": 18,
+	"player_name": "Sasha Vujacic",
+	"birth_date": 447570000,
+	"position": "195",
+	"draftkings_id": 254006
+}, {
+	"player_id": 2757,
+	"team_id": 19,
+	"player_name": "Beno Udrih",
+	"birth_date": 394689600,
+	"position": "205",
+	"draftkings_id": 254007
+}, {
+	"player_id": 2760,
+	"team_id": 17,
+	"player_name": "Anderson Varejao",
+	"birth_date": 402033600,
+	"position": "273",
+	"draftkings_id": 254009
+}, {
+	"player_id": 2767,
+	"team_id": 0,
+	"player_name": "Royal Ivey",
+	"birth_date": 377672400,
+	"position": "",
+	"draftkings_id": 0
+}, {
+	"player_id": 2772,
+	"team_id": 1,
+	"player_name": "Trevor Ariza",
+	"birth_date": 488952000,
+	"position": "215",
+	"draftkings_id": 229738
+}, {
+	"player_id": 2853,
+	"team_id": 30,
+	"player_name": "Earl Barron",
+	"birth_date": 366609600,
+	"position": "250",
+	"draftkings_id": 58414
+}, {
+	"player_id": 101106,
+	"team_id": 12,
+	"player_name": "Andrew Bogut",
+	"birth_date": 470466000,
+	"position": "260",
+	"draftkings_id": 229912
+}, {
+	"player_id": 101107,
+	"team_id": 2,
+	"player_name": "Marvin Williams",
+	"birth_date": 519537600,
+	"position": "237",
+	"draftkings_id": 263884
+}, {
+	"player_id": 101108,
+	"team_id": 3,
+	"player_name": "Chris Paul",
+	"birth_date": 484200000,
+	"position": "175",
+	"draftkings_id": 229598
+}, {
+	"player_id": 101109,
+	"team_id": 2,
+	"player_name": "Raymond Felton",
+	"birth_date": 457070400,
+	"position": "205",
+	"draftkings_id": 174063
+}, {
+	"player_id": 101110,
+	"team_id": 9,
+	"player_name": "Martell Webster",
+	"birth_date": 534056400,
+	"position": "230",
+	"draftkings_id": 292385
+}, {
+	"player_id": 101111,
+	"team_id": 3,
+	"player_name": "Charlie Villanueva",
+	"birth_date": 462168000,
+	"position": "232",
+	"draftkings_id": 229764
+}, {
+	"player_id": 101112,
+	"team_id": 8,
+	"player_name": "Channing Frye",
+	"birth_date": 421992000,
+	"position": "255",
+	"draftkings_id": 65871
+}, {
+	"player_id": 101114,
+	"team_id": 8,
+	"player_name": "Deron Williams",
+	"birth_date": 457070400,
+	"position": "200",
+	"draftkings_id": 172537
+}, {
+	"player_id": 101115,
+	"team_id": 17,
+	"player_name": "Andrew Bynum",
+	"birth_date": 562309200,
+	"position": "285",
+	"draftkings_id": 0
+}, {
+	"player_id": 101122,
+	"team_id": 22,
+	"player_name": "Danny Granger",
+	"birth_date": 419662800,
+	"position": "222",
+	"draftkings_id": 66433
+}, {
+	"player_id": 101123,
+	"team_id": 14,
+	"player_name": "Gerald Green",
+	"birth_date": 507099600,
+	"position": "205",
+	"draftkings_id": 292391
+}, {
+	"player_id": 101126,
+	"team_id": 0,
+	"player_name": "Nate Robinson",
+	"birth_date": 454824000,
+	"position": "",
+	"draftkings_id": 172997
+}, {
+	"player_id": 101127,
+	"team_id": 2,
+	"player_name": "Jarrett Jack",
+	"birth_date": 436161600,
+	"position": "200",
+	"draftkings_id": 178537
+}, {
+	"player_id": 101128,
+	"team_id": 0,
+	"player_name": "Francisco Garcia",
+	"birth_date": 378622800,
+	"position": "",
+	"draftkings_id": 174054
+}, {
+	"player_id": 101131,
+	"team_id": 54,
+	"player_name": "Jason Maxiell",
+	"birth_date": 414392400,
+	"position": "260",
+	"draftkings_id": 65968
+}, {
+	"player_id": 101133,
+	"team_id": 28,
+	"player_name": "Ian Mahinmi",
+	"birth_date": 531550800,
+	"position": "250",
+	"draftkings_id": 292393
+}, {
+	"player_id": 101135,
+	"team_id": 42,
+	"player_name": "David Lee",
+	"birth_date": 420436800,
+	"position": "245",
+	"draftkings_id": 65840
+}, {
+	"player_id": 101138,
+	"team_id": 2,
+	"player_name": "Brandon Bass",
+	"birth_date": 483681600,
+	"position": "250",
+	"draftkings_id": 229792
+}, {
+	"player_id": 101139,
+	"team_id": 0,
+	"player_name": "CJ Miles",
+	"birth_date": 543042000,
+	"position": "231",
+	"draftkings_id": 292394
+}, {
+	"player_id": 101141,
+	"team_id": 23,
+	"player_name": "Ersan Ilyasova",
+	"birth_date": 548049600,
+	"position": "235",
+	"draftkings_id": 292396
+}, {
+	"player_id": 101142,
+	"team_id": 0,
+	"player_name": "Ronny Turiaf",
+	"birth_date": 411282000,
+	"position": "",
+	"draftkings_id": 76721
+}, {
+	"player_id": 101145,
+	"team_id": 11,
+	"player_name": "Monta Ellis",
+	"birth_date": 499147200,
+	"position": "185",
+	"draftkings_id": 292397
+}, {
+	"player_id": 101150,
+	"team_id": 23,
+	"player_name": "Louis Williams",
+	"birth_date": 530773200,
+	"position": "175",
+	"draftkings_id": 292401
+}, {
+	"player_id": 101154,
+	"team_id": 0,
+	"player_name": "Andray Blatche",
+	"birth_date": 525067200,
+	"position": "260",
+	"draftkings_id": 0
+}, {
+	"player_id": 101155,
+	"team_id": 0,
+	"player_name": "Ryan Gomes",
+	"birth_date": 399700800,
+	"position": "",
+	"draftkings_id": 0
+}, {
+	"player_id": 101161,
+	"team_id": 90,
+	"player_name": "Amir Johnson",
+	"birth_date": 546840000,
+	"position": "240",
+	"draftkings_id": 292407
+}, {
+	"player_id": 101162,
+	"team_id": 13,
+	"player_name": "Marcin Gortat",
+	"birth_date": 445842000,
+	"position": "240",
+	"draftkings_id": 292408
+}, {
+	"player_id": 101179,
+	"team_id": 14,
+	"player_name": "Ronnie Price",
+	"birth_date": 425016000,
+	"position": "190",
+	"draftkings_id": 76032
+}, {
+	"player_id": 101181,
+	"team_id": 3,
+	"player_name": "Jose Calderon",
+	"birth_date": 370497600,
+	"position": "200",
+	"draftkings_id": 296475
+}, {
+	"player_id": 101183,
+	"team_id": 0,
+	"player_name": "Shavlik Randolph",
+	"birth_date": 438498000,
+	"position": "",
+	"draftkings_id": 172642
+}, {
+	"player_id": 101187,
+	"team_id": 6,
+	"player_name": "Alan Anderson",
+	"birth_date": 403588800,
+	"position": "220",
+	"draftkings_id": 66858
+}, {
+	"player_id": 101198,
+	"team_id": 1,
+	"player_name": "Will Bynum",
+	"birth_date": 410504400,
+	"position": "185",
+	"draftkings_id": 65868
+}, {
+	"player_id": 101236,
+	"team_id": 0,
+	"player_name": "Charles Hayes",
+	"birth_date": 424152000,
+	"position": "",
+	"draftkings_id": 65844
+}, {
+	"player_id": 101249,
+	"team_id": 9,
+	"player_name": "John Lucas III",
+	"birth_date": 406702800,
+	"position": "166",
+	"draftkings_id": 65759
+}, {
+	"player_id": 200745,
+	"team_id": 9,
+	"player_name": "Andrea Bargnani",
+	"birth_date": 499147200,
+	"position": "245",
+	"draftkings_id": 329185
+}, {
+	"player_id": 200746,
+	"team_id": 12,
+	"player_name": "LaMarcus Aldridge",
+	"birth_date": 490593600,
+	"position": "240",
+	"draftkings_id": 266554
+}, {
+	"player_id": 200748,
+	"team_id": 0,
+	"player_name": "Tyrus Thomas",
+	"birth_date": 524635200,
+	"position": "",
+	"draftkings_id": 263902
+}, {
+	"player_id": 200751,
+	"team_id": 4,
+	"player_name": "Randy Foye",
+	"birth_date": 433224000,
+	"position": "213",
+	"draftkings_id": 172692
+}, {
+	"player_id": 200752,
+	"team_id": 8,
+	"player_name": "Rudy Gay",
+	"birth_date": 524635200,
+	"position": "230",
+	"draftkings_id": 266358
+}, {
+	"player_id": 200755,
+	"team_id": 4,
+	"player_name": "JJ Redick",
+	"birth_date": 456897600,
+	"position": "190",
+	"draftkings_id": 172643
+}, {
+	"player_id": 200756,
+	"team_id": 57,
+	"player_name": "Hilton Armstrong",
+	"birth_date": 470034000,
+	"position": "235",
+	"draftkings_id": 0
+}, {
+	"player_id": 200757,
+	"team_id": 25,
+	"player_name": "Thabo Sefolosha",
+	"birth_date": 452318400,
+	"position": "220",
+	"draftkings_id": 329187
+}, {
+	"player_id": 200758,
+	"team_id": 11,
+	"player_name": "Ronnie Brewer",
+	"birth_date": 480142800,
+	"position": "235",
+	"draftkings_id": 0
+}, {
+	"player_id": 200761,
+	"team_id": 3,
+	"player_name": "Shawne Williams",
+	"birth_date": 508914000,
+	"position": "230",
+	"draftkings_id": 264019
+}, {
+	"player_id": 200765,
+	"team_id": 9,
+	"player_name": "Rajon Rondo",
+	"birth_date": 509432400,
+	"position": "186",
+	"draftkings_id": 262882
+}, {
+	"player_id": 200768,
+	"team_id": 7,
+	"player_name": "Kyle Lowry",
+	"birth_date": 512110800,
+	"position": "205",
+	"draftkings_id": 266394
+}, {
+	"player_id": 200769,
+	"team_id": 0,
+	"player_name": "Shannon Brown",
+	"birth_date": 502088400,
+	"position": "",
+	"draftkings_id": 0
+}, {
+	"player_id": 200770,
+	"team_id": 0,
+	"player_name": "Jordan Farmar",
+	"birth_date": 533710800,
+	"position": "",
+	"draftkings_id": 263231
+}, {
+	"player_id": 200777,
+	"team_id": 19,
+	"player_name": "Joel Freeland",
+	"birth_date": 539672400,
+	"position": "225",
+	"draftkings_id": 329190
+}, {
+	"player_id": 200779,
+	"team_id": 6,
+	"player_name": "Steve Novak",
+	"birth_date": 424324800,
+	"position": "225",
+	"draftkings_id": 172571
+}, {
+	"player_id": 200780,
+	"team_id": 0,
+	"player_name": "Solomon Jones",
+	"birth_date": 458798400,
+	"position": "",
+	"draftkings_id": 0
+}, {
+	"player_id": 200782,
+	"team_id": 17,
+	"player_name": "PJ Tucker",
+	"birth_date": 484113600,
+	"position": "245",
+	"draftkings_id": 229602
+}, {
+	"player_id": 200794,
+	"team_id": 4,
+	"player_name": "Paul Millsap",
+	"birth_date": 476859600,
+	"position": "246",
+	"draftkings_id": 237675
+}, {
+	"player_id": 200797,
+	"team_id": 15,
+	"player_name": "Ryan Hollins",
+	"birth_date": 466228800,
+	"position": "240",
+	"draftkings_id": 177575
+}, {
+	"player_id": 200811,
+	"team_id": 17,
+	"player_name": "Lou Amundson",
+	"birth_date": 408085200,
+	"position": "220",
+	"draftkings_id": 66027
+}, {
+	"player_id": 200826,
+	"team_id": 5,
+	"player_name": "Jose Juan Barea",
+	"birth_date": 457070400,
+	"position": "185",
+	"draftkings_id": 173520
+}, {
+	"player_id": 200839,
+	"team_id": 0,
+	"player_name": "Michael Harris",
+	"birth_date": 424497600,
+	"position": "",
+	"draftkings_id": 0
+}, {
+	"player_id": 201141,
+	"team_id": 20,
+	"player_name": "Greg Oden",
+	"birth_date": 569826000,
+	"position": "273",
+	"draftkings_id": 0
+}, {
+	"player_id": 201142,
+	"team_id": 35,
+	"player_name": "Kevin Durant",
+	"birth_date": 591508800,
+	"position": "240",
+	"draftkings_id": 329525
+}, {
+	"player_id": 201143,
+	"team_id": 15,
+	"player_name": "Al Horford",
+	"birth_date": 518155200,
+	"position": "245",
+	"draftkings_id": 280587
+}, {
+	"player_id": 201144,
+	"team_id": 11,
+	"player_name": "Mike Conley",
+	"birth_date": 560923200,
+	"position": "175",
+	"draftkings_id": 329468
+}, {
+	"player_id": 201145,
+	"team_id": 32,
+	"player_name": "Jeff Green",
+	"birth_date": 525585600,
+	"position": "235",
+	"draftkings_id": 266367
+}, {
+	"player_id": 201147,
+	"team_id": 33,
+	"player_name": "Corey Brewer",
+	"birth_date": 510382800,
+	"position": "186",
+	"draftkings_id": 263217
+}, {
+	"player_id": 201148,
+	"team_id": 34,
+	"player_name": "Brandan Wright",
+	"birth_date": 560404800,
+	"position": "210",
+	"draftkings_id": 329675
+}, {
+	"player_id": 201149,
+	"team_id": 13,
+	"player_name": "Joakim Noah",
+	"birth_date": 478155600,
+	"position": "232",
+	"draftkings_id": 263220
+}, {
+	"player_id": 201150,
+	"team_id": 0,
+	"player_name": "Spencer Hawes",
+	"birth_date": 578203200,
+	"position": "245",
+	"draftkings_id": 329824
+}, {
+	"player_id": 201152,
+	"team_id": 30,
+	"player_name": "Thaddeus Young",
+	"birth_date": 582868800,
+	"position": "221",
+	"draftkings_id": 329683
+}, {
+	"player_id": 201155,
+	"team_id": 2,
+	"player_name": "Rodney Stuckey",
+	"birth_date": 514443600,
+	"position": "205",
+	"draftkings_id": 278110
+}, {
+	"player_id": 201156,
+	"team_id": 0,
+	"player_name": "Nick Young",
+	"birth_date": 486446400,
+	"position": "210",
+	"draftkings_id": 263228
+}, {
+	"player_id": 201158,
+	"team_id": 3,
+	"player_name": "Marco Belinelli",
+	"birth_date": 512110800,
+	"position": "210",
+	"draftkings_id": 393434
+}, {
+	"player_id": 201160,
+	"team_id": 14,
+	"player_name": "Jason Smith",
+	"birth_date": 510123600,
+	"position": "240",
+	"draftkings_id": 263894
+}, {
+	"player_id": 201162,
+	"team_id": 1,
+	"player_name": "Jared Dudley",
+	"birth_date": 489816000,
+	"position": "225",
+	"draftkings_id": 241712
+}, {
+	"player_id": 201163,
+	"team_id": 21,
+	"player_name": "Wilson Chandler",
+	"birth_date": 547617600,
+	"position": "225",
+	"draftkings_id": 295941
+}, {
+	"player_id": 201166,
+	"team_id": 0,
+	"player_name": "Aaron Brooks",
+	"birth_date": 474526800,
+	"position": "161",
+	"draftkings_id": 229726
+}, {
+	"player_id": 201167,
+	"team_id": 4,
+	"player_name": "Arron Afflalo",
+	"birth_date": 498196800,
+	"position": "210",
+	"draftkings_id": 263229
+}, {
+	"player_id": 201168,
+	"team_id": 11,
+	"player_name": "Tiago Splitter",
+	"birth_date": 473403600,
+	"position": "245",
+	"draftkings_id": 393436
+}, {
+	"player_id": 201171,
+	"team_id": 7,
+	"player_name": "Carl Landry",
+	"birth_date": 432792000,
+	"position": "248",
+	"draftkings_id": 263028
+}, {
+	"player_id": 201175,
+	"team_id": 0,
+	"player_name": "Glen Davis",
+	"birth_date": 504939600,
+	"position": "289",
+	"draftkings_id": 263904
+}, {
+	"player_id": 201177,
+	"team_id": 4,
+	"player_name": "Josh McRoberts",
+	"birth_date": 541486800,
+	"position": "240",
+	"draftkings_id": 295927
+}, {
+	"player_id": 201188,
+	"team_id": 33,
+	"player_name": "Marc Gasol",
+	"birth_date": 475822800,
+	"position": "255",
+	"draftkings_id": 393441
+}, {
+	"player_id": 201189,
+	"team_id": 33,
+	"player_name": "Aaron Gray",
+	"birth_date": 471243600,
+	"position": "270",
+	"draftkings_id": 0
+}, {
+	"player_id": 201196,
+	"team_id": 7,
+	"player_name": "Ramon Sessions",
+	"birth_date": 513579600,
+	"position": "190",
+	"draftkings_id": 278479
+}, {
+	"player_id": 201202,
+	"team_id": 50,
+	"player_name": "Joel Anthony",
+	"birth_date": 397713600,
+	"position": "245",
+	"draftkings_id": 265013
+}, {
+	"player_id": 201203,
+	"team_id": 0,
+	"player_name": "Mustafa Shakur",
+	"birth_date": 461649600,
+	"position": "",
+	"draftkings_id": 0
+}, {
+	"player_id": 201228,
+	"team_id": 32,
+	"player_name": "CJ Watson",
+	"birth_date": 451026000,
+	"position": "175",
+	"draftkings_id": 174025
+}, {
+	"player_id": 201229,
+	"team_id": 43,
+	"player_name": "Anthony Tolliver",
+	"birth_date": 486446400,
+	"position": "240",
+	"draftkings_id": 229905
+}, {
+	"player_id": 201563,
+	"team_id": 30,
+	"player_name": "Michael Beasley",
+	"birth_date": 600325200,
+	"position": "235",
+	"draftkings_id": 405345
+}, {
+	"player_id": 201564,
+	"team_id": 3,
+	"player_name": "O.J. Mayo",
+	"birth_date": 563086800,
+	"position": "210",
+	"draftkings_id": 395372
+}, {
+	"player_id": 201565,
+	"team_id": 1,
+	"player_name": "Derrick Rose",
+	"birth_date": 591940800,
+	"position": "190",
+	"draftkings_id": 399612
+}, {
+	"player_id": 201566,
+	"team_id": 0,
+	"player_name": "Russell Westbrook",
+	"birth_date": 595314000,
+	"position": "200",
+	"draftkings_id": 329830
+}, {
+	"player_id": 201567,
+	"team_id": 0,
+	"player_name": "Kevin Love",
+	"birth_date": 589608000,
+	"position": "251",
+	"draftkings_id": 395374
+}, {
+	"player_id": 201568,
+	"team_id": 8,
+	"player_name": "Danilo Gallinari",
+	"birth_date": 587016000,
+	"position": "225",
+	"draftkings_id": 456448
+}, {
+	"player_id": 201569,
+	"team_id": 10,
+	"player_name": "Eric Gordon",
+	"birth_date": 599029200,
+	"position": "215",
+	"draftkings_id": 401085
+}, {
+	"player_id": 201571,
+	"team_id": 14,
+	"player_name": "D.J. Augustin",
+	"birth_date": 563518800,
+	"position": "183",
+	"draftkings_id": 329524
+}, {
+	"player_id": 201572,
+	"team_id": 11,
+	"player_name": "Brook Lopez",
+	"birth_date": 575874000,
+	"position": "275",
+	"draftkings_id": 330047
+}, {
+	"player_id": 201573,
+	"team_id": 19,
+	"player_name": "Jerryd Bayless",
+	"birth_date": 588052800,
+	"position": "200",
+	"draftkings_id": 395391
+}, {
+	"player_id": 201574,
+	"team_id": 1,
+	"player_name": "Jason Thompson",
+	"birth_date": 522302400,
+	"position": "250",
+	"draftkings_id": 278317
+}, {
+	"player_id": 201575,
+	"team_id": 4,
+	"player_name": "Brandon Rush",
+	"birth_date": 489556800,
+	"position": "220",
+	"draftkings_id": 303807
+}, {
+	"player_id": 201576,
+	"team_id": 15,
+	"player_name": "Anthony Randolph",
+	"birth_date": 616478400,
+	"position": "225",
+	"draftkings_id": 0
+}, {
+	"player_id": 201577,
+	"team_id": 8,
+	"player_name": "Robin Lopez",
+	"birth_date": 575874000,
+	"position": "255",
+	"draftkings_id": 330050
+}, {
+	"player_id": 201578,
+	"team_id": 5,
+	"player_name": "Marreese Speights",
+	"birth_date": 555048000,
+	"position": "255",
+	"draftkings_id": 330421
+}, {
+	"player_id": 201579,
+	"team_id": 17,
+	"player_name": "Roy Hibbert",
+	"birth_date": 534661200,
+	"position": "270",
+	"draftkings_id": 266369
+}, {
+	"player_id": 201580,
+	"team_id": 11,
+	"player_name": "JaVale McGee",
+	"birth_date": 569566800,
+	"position": "270",
+	"draftkings_id": 333212
+}, {
+	"player_id": 201581,
+	"team_id": 7,
+	"player_name": "JJ Hickson",
+	"birth_date": 589348800,
+	"position": "242",
+	"draftkings_id": 400585
+}, {
+	"player_id": 201582,
+	"team_id": 42,
+	"player_name": "Alexis Ajinca",
+	"birth_date": 578894400,
+	"position": "248",
+	"draftkings_id": 456449
+}, {
+	"player_id": 201583,
+	"team_id": 33,
+	"player_name": "Ryan Anderson",
+	"birth_date": 578894400,
+	"position": "240",
+	"draftkings_id": 329715
+}, {
+	"player_id": 201584,
+	"team_id": 5,
+	"player_name": "Courtney Lee",
+	"birth_date": 497160000,
+	"position": "200",
+	"draftkings_id": 276755
+}, {
+	"player_id": 201585,
+	"team_id": 41,
+	"player_name": "Kosta Koufos",
+	"birth_date": 604299600,
+	"position": "265",
+	"draftkings_id": 398066
+}, {
+	"player_id": 201586,
+	"team_id": 9,
+	"player_name": "Serge Ibaka",
+	"birth_date": 622094400,
+	"position": "245",
+	"draftkings_id": 456450
+}, {
+	"player_id": 201587,
+	"team_id": 5,
+	"player_name": "Nicolas Batum",
+	"birth_date": 598078800,
+	"position": "200",
+	"draftkings_id": 456451
+}, {
+	"player_id": 201588,
+	"team_id": 3,
+	"player_name": "George Hill",
+	"birth_date": 515563200,
+	"position": "188",
+	"draftkings_id": 277552
+}, {
+	"player_id": 201589,
+	"team_id": 0,
+	"player_name": "Darrell Arthur",
+	"birth_date": 575269200,
+	"position": "235",
+	"draftkings_id": 330347
+}, {
+	"player_id": 201591,
+	"team_id": 8,
+	"player_name": "DJ White",
+	"birth_date": 525844800,
+	"position": "250",
+	"draftkings_id": 0
+}, {
+	"player_id": 201593,
+	"team_id": 14,
+	"player_name": "Nikola Pekovic",
+	"birth_date": 505112400,
+	"position": "307",
+	"draftkings_id": 456452
+}, {
+	"player_id": 201595,
+	"team_id": 8,
+	"player_name": "Joey Dorsey",
+	"birth_date": 440398800,
+	"position": "275",
+	"draftkings_id": 264017
+}, {
+	"player_id": 201596,
+	"team_id": 6,
+	"player_name": "Mario Chalmers",
+	"birth_date": 516859200,
+	"position": "190",
+	"draftkings_id": 296572
+}, {
+	"player_id": 201599,
+	"team_id": 6,
+	"player_name": "DeAndre Jordan",
+	"birth_date": 585460800,
+	"position": "265",
+	"draftkings_id": 398142
+}, {
+	"player_id": 201600,
+	"team_id": 3,
+	"player_name": "Omer Asik",
+	"birth_date": 520833600,
+	"position": "255",
+	"draftkings_id": 456453
+}, {
+	"player_id": 201601,
+	"team_id": 12,
+	"player_name": "Luc Mbah a Moute",
+	"birth_date": 526622400,
+	"position": "230",
+	"draftkings_id": 0
+}, {
+	"player_id": 201603,
+	"team_id": 10,
+	"player_name": "Sonny Weems",
+	"birth_date": 521179200,
+	"position": "205",
+	"draftkings_id": 332695
+}, {
+	"player_id": 201604,
+	"team_id": 0,
+	"player_name": "Chris Douglas-Roberts",
+	"birth_date": 537080400,
+	"position": "",
+	"draftkings_id": 295813
+}, {
+	"player_id": 201609,
+	"team_id": 7,
+	"player_name": "Goran Dragic",
+	"birth_date": 515736000,
+	"position": "190",
+	"draftkings_id": 456456
+}, {
+	"player_id": 201611,
+	"team_id": 5,
+	"player_name": "Henry Walker",
+	"birth_date": 560750400,
+	"position": "235",
+	"draftkings_id": 351927
+}, {
+	"player_id": 201619,
+	"team_id": 14,
+	"player_name": "Sasha Kaun",
+	"birth_date": 484372800,
+	"position": "260",
+	"draftkings_id": 263245
+}, {
+	"player_id": 201627,
+	"team_id": 2,
+	"player_name": "Anthony Morrow",
+	"birth_date": 496641600,
+	"position": "210",
+	"draftkings_id": 263899
+}, {
+	"player_id": 201785,
+	"team_id": 0,
+	"player_name": "Othyus Jeffers",
+	"birth_date": 492062400,
+	"position": "210",
+	"draftkings_id": 0
+}, {
+	"player_id": 201787,
+	"team_id": 0,
+	"player_name": "Cartier Martin",
+	"birth_date": 469774800,
+	"position": "",
+	"draftkings_id": 229758
+}, {
+	"player_id": 201858,
+	"team_id": 35,
+	"player_name": "Cartier Martin",
+	"birth_date": 469774800,
+	"position": "220",
+	"draftkings_id": 0
+}, {
+	"player_id": 201880,
+	"team_id": 34,
+	"player_name": "Greg Stiemsma",
+	"birth_date": 496555200,
+	"position": "260",
+	"draftkings_id": 263025
+}, {
+	"player_id": 201933,
+	"team_id": 32,
+	"player_name": "Blake Griffin",
+	"birth_date": 606027600,
+	"position": "251",
+	"draftkings_id": 399725
+}, {
+	"player_id": 201934,
+	"team_id": 34,
+	"player_name": "Hasheem Thabeet",
+	"birth_date": 540450000,
+	"position": "263",
+	"draftkings_id": 0
+}, {
+	"player_id": 201935,
+	"team_id": 13,
+	"player_name": "James Harden",
+	"birth_date": 620107200,
+	"position": "220",
+	"draftkings_id": 395388
+}, {
+	"player_id": 201936,
+	"team_id": 1,
+	"player_name": "Tyreke Evans",
+	"birth_date": 622180800,
+	"position": "220",
+	"draftkings_id": 464841
+}, {
+	"player_id": 201937,
+	"team_id": 9,
+	"player_name": "Ricky Rubio",
+	"birth_date": 656481600,
+	"position": "194",
+	"draftkings_id": 503689
+}, {
+	"player_id": 201939,
+	"team_id": 30,
+	"player_name": "Stephen Curry",
+	"birth_date": 574318800,
+	"position": "190",
+	"draftkings_id": 338365
+}, {
+	"player_id": 201941,
+	"team_id": 27,
+	"player_name": "Jordan Hill",
+	"birth_date": 554356800,
+	"position": "235",
+	"draftkings_id": 329711
+}, {
+	"player_id": 201942,
+	"team_id": 10,
+	"player_name": "DeMar DeRozan",
+	"birth_date": 618465600,
+	"position": "220",
+	"draftkings_id": 457594
+}, {
+	"player_id": 201943,
+	"team_id": 7,
+	"player_name": "Brandon Jennings",
+	"birth_date": 622526400,
+	"position": "169",
+	"draftkings_id": 478196
+}, {
+	"player_id": 201945,
+	"team_id": 9,
+	"player_name": "Gerald Henderson",
+	"birth_date": 566024400,
+	"position": "215",
+	"draftkings_id": 329887
+}, {
+	"player_id": 201946,
+	"team_id": 50,
+	"player_name": "Tyler Hansbrough",
+	"birth_date": 499842000,
+	"position": "250",
+	"draftkings_id": 295923
+}, {
+	"player_id": 201947,
+	"team_id": 55,
+	"player_name": "Earl Clark",
+	"birth_date": 569394000,
+	"position": "234",
+	"draftkings_id": 332500
+}, {
+	"player_id": 201948,
+	"team_id": 3,
+	"player_name": "Austin Daye",
+	"birth_date": 581486400,
+	"position": "220",
+	"draftkings_id": 400612
+}, {
+	"player_id": 201949,
+	"team_id": 3,
+	"player_name": "James Johnson",
+	"birth_date": 540795600,
+	"position": "250",
+	"draftkings_id": 398037
+}, {
+	"player_id": 201950,
+	"team_id": 11,
+	"player_name": "Jrue Holiday",
+	"birth_date": 645163200,
+	"position": "205",
+	"draftkings_id": 457576
+}, {
+	"player_id": 201951,
+	"team_id": 3,
+	"player_name": "Ty Lawson",
+	"birth_date": 562914000,
+	"position": "195",
+	"draftkings_id": 329672
+}, {
+	"player_id": 201952,
+	"team_id": 0,
+	"player_name": "Jeff Teague",
+	"birth_date": 581918400,
+	"position": "186",
+	"draftkings_id": 398043
+}, {
+	"player_id": 201953,
+	"team_id": 0,
+	"player_name": "Eric Maynor",
+	"birth_date": 550382400,
+	"position": "",
+	"draftkings_id": 0
+}, {
+	"player_id": 201954,
+	"team_id": 7,
+	"player_name": "Darren Collison",
+	"birth_date": 556689600,
+	"position": "175",
+	"draftkings_id": 295432
+}, {
+	"player_id": 201956,
+	"team_id": 18,
+	"player_name": "Omri Casspi",
+	"birth_date": 582955200,
+	"position": "225",
+	"draftkings_id": 503779
+}, {
+	"player_id": 201957,
+	"team_id": 30,
+	"player_name": "Byron Mullens",
+	"birth_date": 603435600,
+	"position": "275",
+	"draftkings_id": 0
+}, {
+	"player_id": 201959,
+	"team_id": 22,
+	"player_name": "Taj Gibson",
+	"birth_date": 488433600,
+	"position": "225",
+	"draftkings_id": 330057
+}, {
+	"player_id": 201960,
+	"team_id": 5,
+	"player_name": "DeMarre Carroll",
+	"birth_date": 522820800,
+	"position": "212",
+	"draftkings_id": 262890
+}, {
+	"player_id": 201961,
+	"team_id": 21,
+	"player_name": "Wayne Ellington",
+	"birth_date": 565160400,
+	"position": "200",
+	"draftkings_id": 329670
+}, {
+	"player_id": 201962,
+	"team_id": 16,
+	"player_name": "Toney Douglas",
+	"birth_date": 511333200,
+	"position": "195",
+	"draftkings_id": 262894
+}, {
+	"player_id": 201964,
+	"team_id": 0,
+	"player_name": "Victor Claver",
+	"birth_date": 588916800,
+	"position": "",
+	"draftkings_id": 503773
+}, {
+	"player_id": 201965,
+	"team_id": 11,
+	"player_name": "Jeff Ayres",
+	"birth_date": 546667200,
+	"position": "250",
+	"draftkings_id": 295420
+}, {
+	"player_id": 201967,
+	"team_id": 44,
+	"player_name": "Dante Cunningham",
+	"birth_date": 546062400,
+	"position": "230",
+	"draftkings_id": 295799
+}, {
+	"player_id": 201971,
+	"team_id": 45,
+	"player_name": "DeJuan Blair",
+	"birth_date": 609220800,
+	"position": "270",
+	"draftkings_id": 402377
+}, {
+	"player_id": 201973,
+	"team_id": 8,
+	"player_name": "Jonas Jerebko",
+	"birth_date": 541659600,
+	"position": "231",
+	"draftkings_id": 503807
+}, {
+	"player_id": 201975,
+	"team_id": 20,
+	"player_name": "Jodie Meeks",
+	"birth_date": 556516800,
+	"position": "210",
+	"draftkings_id": 329862
+}, {
+	"player_id": 201976,
+	"team_id": 2,
+	"player_name": "Patrick Beverley",
+	"birth_date": 584683200,
+	"position": "185",
+	"draftkings_id": 332691
+}, {
+	"player_id": 201977,
+	"team_id": 10,
+	"player_name": "Marcus Thornton",
+	"birth_date": 549864000,
+	"position": "205",
+	"draftkings_id": 398590
+}, {
+	"player_id": 201978,
+	"team_id": 10,
+	"player_name": "Chase Budinger",
+	"birth_date": 580276800,
+	"position": "209",
+	"draftkings_id": 329710
+}, {
+	"player_id": 201979,
+	"team_id": 12,
+	"player_name": "Nick Calathes",
+	"birth_date": 602830800,
+	"position": "213",
+	"draftkings_id": 400594
+}, {
+	"player_id": 201980,
+	"team_id": 14,
+	"player_name": "Danny Green",
+	"birth_date": 551332800,
+	"position": "215",
+	"draftkings_id": 295922
+}, {
+	"player_id": 201985,
+	"team_id": 0,
+	"player_name": "A.J. Price",
+	"birth_date": 529041600,
+	"position": "",
+	"draftkings_id": 329482
+}, {
+	"player_id": 201986,
+	"team_id": 3,
+	"player_name": "Nando De Colo",
+	"birth_date": 551419200,
+	"position": "195",
+	"draftkings_id": 0
+}, {
+	"player_id": 201988,
+	"team_id": 8,
+	"player_name": "Patty Mills",
+	"birth_date": 587275200,
+	"position": "185",
+	"draftkings_id": 411562
+}, {
+	"player_id": 201991,
+	"team_id": 14,
+	"player_name": "Lester Hudson",
+	"birth_date": 460699200,
+	"position": "190",
+	"draftkings_id": 411378
+}, {
+	"player_id": 202066,
+	"team_id": 17,
+	"player_name": "Garrett Temple",
+	"birth_date": 515908800,
+	"position": "195",
+	"draftkings_id": 263903
+}, {
+	"player_id": 202077,
+	"team_id": 8,
+	"player_name": "Jerel McNeal",
+	"birth_date": 549518400,
+	"position": "200",
+	"draftkings_id": 295808
+}, {
+	"player_id": 202083,
+	"team_id": 23,
+	"player_name": "Wesley Matthews",
+	"birth_date": 529646400,
+	"position": "220",
+	"draftkings_id": 295809
+}, {
+	"player_id": 202087,
+	"team_id": 15,
+	"player_name": "Alonzo Gee",
+	"birth_date": 549259200,
+	"position": "225",
+	"draftkings_id": 296605
+}, {
+	"player_id": 202091,
+	"team_id": 25,
+	"player_name": "Dionte Christmas",
+	"birth_date": 527140800,
+	"position": "205",
+	"draftkings_id": 297774
+}, {
+	"player_id": 202130,
+	"team_id": 55,
+	"player_name": "Reggie Williams",
+	"birth_date": 527054400,
+	"position": "205",
+	"draftkings_id": 278973
+}, {
+	"player_id": 202197,
+	"team_id": 0,
+	"player_name": "Shane Edwards",
+	"birth_date": 549432000,
+	"position": "",
+	"draftkings_id": 0
+}, {
+	"player_id": 202322,
+	"team_id": 2,
+	"player_name": "John Wall",
+	"birth_date": 652593600,
+	"position": "195",
+	"draftkings_id": 509456
+}, {
+	"player_id": 202323,
+	"team_id": 11,
+	"player_name": "Evan Turner",
+	"birth_date": 593928000,
+	"position": "220",
+	"draftkings_id": 398068
+}, {
+	"player_id": 202324,
+	"team_id": 15,
+	"player_name": "Derrick Favors",
+	"birth_date": 679550400,
+	"position": "265",
+	"draftkings_id": 502808
+}, {
+	"player_id": 202325,
+	"team_id": 33,
+	"player_name": "Wesley Johnson",
+	"birth_date": 552974400,
+	"position": "215",
+	"draftkings_id": 329544
+}, {
+	"player_id": 202326,
+	"team_id": 15,
+	"player_name": "DeMarcus Cousins",
+	"birth_date": 650520000,
+	"position": "270",
+	"draftkings_id": 509450
+}, {
+	"player_id": 202327,
+	"team_id": 13,
+	"player_name": "Ekpe Udoh",
+	"birth_date": 548481600,
+	"position": "245",
+	"draftkings_id": 331197
+}, {
+	"player_id": 202328,
+	"team_id": 15,
+	"player_name": "Greg Monroe",
+	"birth_date": 644472000,
+	"position": "265",
+	"draftkings_id": 467468
+}, {
+	"player_id": 202329,
+	"team_id": 8,
+	"player_name": "Al-Farouq Aminu",
+	"birth_date": 653889600,
+	"position": "215",
+	"draftkings_id": 457688
+}, {
+	"player_id": 202330,
+	"team_id": 20,
+	"player_name": "Gordon Hayward",
+	"birth_date": 638168400,
+	"position": "226",
+	"draftkings_id": 477667
+}, {
+	"player_id": 202331,
+	"team_id": 13,
+	"player_name": "Paul George",
+	"birth_date": 641620800,
+	"position": "220",
+	"draftkings_id": 469218
+}, {
+	"player_id": 202332,
+	"team_id": 45,
+	"player_name": "Cole Aldrich",
+	"birth_date": 594277200,
+	"position": "250",
+	"draftkings_id": 398443
+}, {
+	"player_id": 202333,
+	"team_id": 0,
+	"player_name": "Xavier Henry",
+	"birth_date": 669013200,
+	"position": "",
+	"draftkings_id": 513058
+}, {
+	"player_id": 202334,
+	"team_id": 17,
+	"player_name": "Ed Davis",
+	"birth_date": 613022400,
+	"position": "240",
+	"draftkings_id": 462458
+}, {
+	"player_id": 202335,
+	"team_id": 54,
+	"player_name": "Patrick Patterson",
+	"birth_date": 605854800,
+	"position": "235",
+	"draftkings_id": 399599
+}, {
+	"player_id": 202336,
+	"team_id": 0,
+	"player_name": "Larry Sanders",
+	"birth_date": 596091600,
+	"position": "",
+	"draftkings_id": 401618
+}, {
+	"player_id": 202337,
+	"team_id": 8,
+	"player_name": "Luke Babbitt",
+	"birth_date": 614318400,
+	"position": "225",
+	"draftkings_id": 462071
+}, {
+	"player_id": 202338,
+	"team_id": 1,
+	"player_name": "Kevin Seraphin",
+	"birth_date": 629010000,
+	"position": "278",
+	"draftkings_id": 550427
+}, {
+	"player_id": 202339,
+	"team_id": 2,
+	"player_name": "Eric Bledsoe",
+	"birth_date": 629182800,
+	"position": "190",
+	"draftkings_id": 509449
+}, {
+	"player_id": 202340,
+	"team_id": 0,
+	"player_name": "Avery Bradley",
+	"birth_date": 659595600,
+	"position": "180",
+	"draftkings_id": 513607
+}, {
+	"player_id": 202341,
+	"team_id": 5,
+	"player_name": "James Anderson",
+	"birth_date": 606805200,
+	"position": "213",
+	"draftkings_id": 399702
+}, {
+	"player_id": 202343,
+	"team_id": 0,
+	"player_name": "Elliot Williams",
+	"birth_date": 614318400,
+	"position": "",
+	"draftkings_id": 467272
+}, {
+	"player_id": 202344,
+	"team_id": 33,
+	"player_name": "Trevor Booker",
+	"birth_date": 564814800,
+	"position": "228",
+	"draftkings_id": 330453
+}, {
+	"player_id": 202345,
+	"team_id": 7,
+	"player_name": "Damion James",
+	"birth_date": 560577600,
+	"position": "225",
+	"draftkings_id": 0
+}, {
+	"player_id": 202347,
+	"team_id": 20,
+	"player_name": "Quincy Pondexter",
+	"birth_date": 573973200,
+	"position": "220",
+	"draftkings_id": 329825
+}, {
+	"player_id": 202348,
+	"team_id": 55,
+	"player_name": "Jordan Crawford",
+	"birth_date": 593582400,
+	"position": "195",
+	"draftkings_id": 401082
+}, {
+	"player_id": 202349,
+	"team_id": 21,
+	"player_name": "Greivis Vasquez",
+	"birth_date": 537771600,
+	"position": "217",
+	"draftkings_id": 332666
+}, {
+	"player_id": 202350,
+	"team_id": 0,
+	"player_name": "Daniel Orton",
+	"birth_date": 649915200,
+	"position": "",
+	"draftkings_id": 0
+}, {
+	"player_id": 202353,
+	"team_id": 21,
+	"player_name": "Tibor Pleiss",
+	"birth_date": 625986000,
+	"position": "256",
+	"draftkings_id": 550428
+}, {
+	"player_id": 202354,
+	"team_id": 0,
+	"player_name": "Dexter Pittman",
+	"birth_date": 573282000,
+	"position": "",
+	"draftkings_id": 0
+}, {
+	"player_id": 202355,
+	"team_id": 21,
+	"player_name": "Hassan Whiteside",
+	"birth_date": 613713600,
+	"position": "265",
+	"draftkings_id": 513234
+}, {
+	"player_id": 202357,
+	"team_id": 88,
+	"player_name": "Nemanja Bjelica",
+	"birth_date": 579153600,
+	"position": "240",
+	"draftkings_id": 550431
+}, {
+	"player_id": 202361,
+	"team_id": 2,
+	"player_name": "Landry Fields",
+	"birth_date": 583387200,
+	"position": "215",
+	"draftkings_id": 330046
+}, {
+	"player_id": 202362,
+	"team_id": 1,
+	"player_name": "Lance Stephenson",
+	"birth_date": 652507200,
+	"position": "230",
+	"draftkings_id": 511057
+}, {
+	"player_id": 202363,
+	"team_id": 40,
+	"player_name": "Jarvis Varnado",
+	"birth_date": 573195600,
+	"position": "230",
+	"draftkings_id": 0
+}, {
+	"player_id": 202366,
+	"team_id": 9,
+	"player_name": "Jerome Jordan",
+	"birth_date": 528350400,
+	"position": "253",
+	"draftkings_id": 329511
+}, {
+	"player_id": 202379,
+	"team_id": 21,
+	"player_name": "Jeremy Evans",
+	"birth_date": 562046400,
+	"position": "200",
+	"draftkings_id": 340764
+}, {
+	"player_id": 202380,
+	"team_id": 0,
+	"player_name": "Hamady Ndiaye",
+	"birth_date": 537426000,
+	"position": "",
+	"draftkings_id": 0
+}, {
+	"player_id": 202388,
+	"team_id": 15,
+	"player_name": "Donald Sloan",
+	"birth_date": 569221200,
+	"position": "205",
+	"draftkings_id": 330374
+}, {
+	"player_id": 202389,
+	"team_id": 20,
+	"player_name": "Timofey Mozgov",
+	"birth_date": 521870400,
+	"position": "275",
+	"draftkings_id": 552679
+}, {
+	"player_id": 202390,
+	"team_id": 14,
+	"player_name": "Gary Neal",
+	"birth_date": 465624000,
+	"position": "210",
+	"draftkings_id": 173407
+}, {
+	"player_id": 202391,
+	"team_id": 7,
+	"player_name": "Jeremy Lin",
+	"birth_date": 588312000,
+	"position": "200",
+	"draftkings_id": 340730
+}, {
+	"player_id": 202397,
+	"team_id": 4,
+	"player_name": "Ish Smith",
+	"birth_date": 584078400,
+	"position": "175",
+	"draftkings_id": 329873
+}, {
+	"player_id": 202399,
+	"team_id": 0,
+	"player_name": "Jeff Adrien",
+	"birth_date": 508395600,
+	"position": "",
+	"draftkings_id": 295794
+}, {
+	"player_id": 202407,
+	"team_id": 13,
+	"player_name": "Elijah Millsap",
+	"birth_date": 555739200,
+	"position": "225",
+	"draftkings_id": 338887
+}, {
+	"player_id": 202412,
+	"team_id": 0,
+	"player_name": "Manny Harris",
+	"birth_date": 622353600,
+	"position": "",
+	"draftkings_id": 0
+}, {
+	"player_id": 202419,
+	"team_id": 20,
+	"player_name": "Chris Johnson",
+	"birth_date": 490420800,
+	"position": "210",
+	"draftkings_id": 462745
+}, {
+	"player_id": 202498,
+	"team_id": 42,
+	"player_name": "Lance Thomas",
+	"birth_date": 577857600,
+	"position": "235",
+	"draftkings_id": 329890
+}, {
+	"player_id": 202620,
+	"team_id": 50,
+	"player_name": "Arinze Onuaku",
+	"birth_date": 553147200,
+	"position": "275",
+	"draftkings_id": 296950
+}, {
+	"player_id": 202681,
+	"team_id": 2,
+	"player_name": "Kyrie Irving",
+	"birth_date": 701326800,
+	"position": "193",
+	"draftkings_id": 551768
+}, {
+	"player_id": 202682,
+	"team_id": 23,
+	"player_name": "Derrick Williams",
+	"birth_date": 675144000,
+	"position": "240",
+	"draftkings_id": 509168
+}, {
+	"player_id": 202683,
+	"team_id": 11,
+	"player_name": "Enes Kanter",
+	"birth_date": 706334400,
+	"position": "245",
+	"draftkings_id": 553574
+}, {
+	"player_id": 202684,
+	"team_id": 13,
+	"player_name": "Tristan Thompson",
+	"birth_date": 668840400,
+	"position": "238",
+	"draftkings_id": 552806
+}, {
+	"player_id": 202685,
+	"team_id": 17,
+	"player_name": "Jonas Valanciunas",
+	"birth_date": 705124800,
+	"position": "255",
+	"draftkings_id": 599780
+}, {
+	"player_id": 202686,
+	"team_id": 24,
+	"player_name": "Jan Vesely",
+	"birth_date": 640929600,
+	"position": "242",
+	"draftkings_id": 0
+}, {
+	"player_id": 202687,
+	"team_id": 8,
+	"player_name": "Bismack Biyombo",
+	"birth_date": 714974400,
+	"position": "245",
+	"draftkings_id": 599797
+}, {
+	"player_id": 202688,
+	"team_id": 3,
+	"player_name": "Brandon Knight",
+	"birth_date": 691650000,
+	"position": "189",
+	"draftkings_id": 553575
+}, {
+	"player_id": 202689,
+	"team_id": 15,
+	"player_name": "Kemba Walker",
+	"birth_date": 642139200,
+	"position": "184",
+	"draftkings_id": 462980
+}, {
+	"player_id": 202690,
+	"team_id": 0,
+	"player_name": "Jimmer Fredette",
+	"birth_date": 604386000,
+	"position": "",
+	"draftkings_id": 400661
+}, {
+	"player_id": 202691,
+	"team_id": 11,
+	"player_name": "Klay Thompson",
+	"birth_date": 634453200,
+	"position": "215",
+	"draftkings_id": 457611
+}, {
+	"player_id": 202692,
+	"team_id": 10,
+	"player_name": "Alec Burks",
+	"birth_date": 679982400,
+	"position": "214",
+	"draftkings_id": 512995
+}, {
+	"player_id": 202693,
+	"team_id": 11,
+	"player_name": "Markieff Morris",
+	"birth_date": 620712000,
+	"position": "245",
+	"draftkings_id": 469085
+}, {
+	"player_id": 202694,
+	"team_id": 13,
+	"player_name": "Marcus Morris",
+	"birth_date": 620712000,
+	"position": "235",
+	"draftkings_id": 469089
+}, {
+	"player_id": 202695,
+	"team_id": 2,
+	"player_name": "Kawhi Leonard",
+	"birth_date": 678168000,
+	"position": "230",
+	"draftkings_id": 512591
+}, {
+	"player_id": 202696,
+	"team_id": 9,
+	"player_name": "Nikola Vucevic",
+	"birth_date": 656740800,
+	"position": "260",
+	"draftkings_id": 457598
+}, {
+	"player_id": 202697,
+	"team_id": 4,
+	"player_name": "Iman Shumpert",
+	"birth_date": 646372800,
+	"position": "220",
+	"draftkings_id": 457186
+}, {
+	"player_id": 202698,
+	"team_id": 31,
+	"player_name": "Chris Singleton",
+	"birth_date": 627627600,
+	"position": "228",
+	"draftkings_id": 0
+}, {
+	"player_id": 202699,
+	"team_id": 12,
+	"player_name": "Tobias Harris",
+	"birth_date": 711172800,
+	"position": "235",
+	"draftkings_id": 552523
+}, {
+	"player_id": 202700,
+	"team_id": 20,
+	"player_name": "Donatas Motiejunas",
+	"birth_date": 653803200,
+	"position": "222",
+	"draftkings_id": 599805
+}, {
+	"player_id": 202702,
+	"team_id": 35,
+	"player_name": "Kenneth Faried",
+	"birth_date": 627454800,
+	"position": "228",
+	"draftkings_id": 411111
+}, {
+	"player_id": 202703,
+	"team_id": 44,
+	"player_name": "Nikola Mirotic",
+	"birth_date": 666248400,
+	"position": "220",
+	"draftkings_id": 599809
+}, {
+	"player_id": 202704,
+	"team_id": 1,
+	"player_name": "Reggie Jackson",
+	"birth_date": 640238400,
+	"position": "208",
+	"draftkings_id": 462444
+}, {
+	"player_id": 202705,
+	"team_id": 2,
+	"player_name": "MarShon Brooks",
+	"birth_date": 601794000,
+	"position": "200",
+	"draftkings_id": 0
+}, {
+	"player_id": 202706,
+	"team_id": 1,
+	"player_name": "Jordan Hamilton",
+	"birth_date": 655185600,
+	"position": "220",
+	"draftkings_id": 513608
+}, {
+	"player_id": 202708,
+	"team_id": 30,
+	"player_name": "Norris Cole",
+	"birth_date": 592718400,
+	"position": "175",
+	"draftkings_id": 410831
+}, {
+	"player_id": 202709,
+	"team_id": 6,
+	"player_name": "Cory Joseph",
+	"birth_date": 682660800,
+	"position": "190",
+	"draftkings_id": 552805
+}, {
+	"player_id": 202710,
+	"team_id": 21,
+	"player_name": "Jimmy Butler",
+	"birth_date": 621748800,
+	"position": "220",
+	"draftkings_id": 458730
+}, {
+	"player_id": 202711,
+	"team_id": 44,
+	"player_name": "Bojan Bogdanovic",
+	"birth_date": 608875200,
+	"position": "216",
+	"draftkings_id": 599812
+}, {
+	"player_id": 202713,
+	"team_id": 5,
+	"player_name": "Kyle Singler",
+	"birth_date": 578721600,
+	"position": "228",
+	"draftkings_id": 398428
+}, {
+	"player_id": 202714,
+	"team_id": 8,
+	"player_name": "Shelvin Mack",
+	"birth_date": 640756800,
+	"position": "203",
+	"draftkings_id": 477669
+}, {
+	"player_id": 202718,
+	"team_id": 25,
+	"player_name": "Chandler Parsons",
+	"birth_date": 593755200,
+	"position": "230",
+	"draftkings_id": 400599
+}, {
+	"player_id": 202719,
+	"team_id": 4,
+	"player_name": "Jeremy Tyler",
+	"birth_date": 677476800,
+	"position": "250",
+	"draftkings_id": 599813
+}, {
+	"player_id": 202720,
+	"team_id": 30,
+	"player_name": "Jon Leuer",
+	"birth_date": 611121600,
+	"position": "228",
+	"draftkings_id": 398090
+}, {
+	"player_id": 202721,
+	"team_id": 14,
+	"player_name": "Darius Morris",
+	"birth_date": 662878800,
+	"position": "195",
+	"draftkings_id": 511638
+}, {
+	"player_id": 202723,
+	"team_id": 0,
+	"player_name": "Malcolm Lee",
+	"birth_date": 643348800,
+	"position": "",
+	"draftkings_id": 457569
+}, {
+	"player_id": 202725,
+	"team_id": 55,
+	"player_name": "Josh Harrellson",
+	"birth_date": 603262800,
+	"position": "275",
+	"draftkings_id": 469488
+}, {
+	"player_id": 202730,
+	"team_id": 5,
+	"player_name": "Lavoy Allen",
+	"birth_date": 602571600,
+	"position": "255",
+	"draftkings_id": 402984
+}, {
+	"player_id": 202732,
+	"team_id": 0,
+	"player_name": "DeAndre Liggins",
+	"birth_date": 575787600,
+	"position": "",
+	"draftkings_id": 0
+}, {
+	"player_id": 202734,
+	"team_id": 55,
+	"player_name": "E'Twaun Moore",
+	"birth_date": 604386000,
+	"position": "191",
+	"draftkings_id": 398424
+}, {
+	"player_id": 202738,
+	"team_id": 4,
+	"player_name": "Isaiah Thomas",
+	"birth_date": 602830800,
+	"position": "185",
+	"draftkings_id": 457605
+}, {
+	"player_id": 202779,
+	"team_id": 0,
+	"player_name": "Dwight Buycks",
+	"birth_date": 605163600,
+	"position": "",
+	"draftkings_id": 504885
+}, {
+	"player_id": 202874,
+	"team_id": 15,
+	"player_name": "Chris Wright",
+	"birth_date": 591595200,
+	"position": "226",
+	"draftkings_id": 0
+}, {
+	"player_id": 202933,
+	"team_id": 77,
+	"player_name": "Julyan Stone",
+	"birth_date": 597474000,
+	"position": "200",
+	"draftkings_id": 399800
+}, {
+	"player_id": 202952,
+	"team_id": 0,
+	"player_name": "Malcolm Thomas",
+	"birth_date": 594968400,
+	"position": "",
+	"draftkings_id": 411458
+}, {
+	"player_id": 202962,
+	"team_id": 4,
+	"player_name": "Greg Smith",
+	"birth_date": 663310800,
+	"position": "250",
+	"draftkings_id": 515415
+}, {
+	"player_id": 202970,
+	"team_id": 14,
+	"player_name": "Gustavo Ayon",
+	"birth_date": 481179600,
+	"position": "250",
+	"draftkings_id": 0
+}, {
+	"player_id": 203076,
+	"team_id": 23,
+	"player_name": "Anthony Davis",
+	"birth_date": 731826000,
+	"position": "253",
+	"draftkings_id": 603096
+}, {
+	"player_id": 203077,
+	"team_id": 14,
+	"player_name": "Michael Kidd-Gilchrist",
+	"birth_date": 749016000,
+	"position": "232",
+	"draftkings_id": 603095
+}, {
+	"player_id": 203078,
+	"team_id": 3,
+	"player_name": "Bradley Beal",
+	"birth_date": 741240000,
+	"position": "207",
+	"draftkings_id": 606912
+}, {
+	"player_id": 203079,
+	"team_id": 3,
+	"player_name": "Dion Waiters",
+	"birth_date": 692341200,
+	"position": "220",
+	"draftkings_id": 552007
+}, {
+	"player_id": 203080,
+	"team_id": 41,
+	"player_name": "Thomas Robinson",
+	"birth_date": 669186000,
+	"position": "237",
+	"draftkings_id": 513057
+}, {
+	"player_id": 203081,
+	"team_id": 0,
+	"player_name": "Damian Lillard",
+	"birth_date": 648014400,
+	"position": "195",
+	"draftkings_id": 463121
+}, {
+	"player_id": 203082,
+	"team_id": 31,
+	"player_name": "Terrence Ross",
+	"birth_date": 665730000,
+	"position": "195",
+	"draftkings_id": 550049
+}, {
+	"player_id": 203083,
+	"team_id": 0,
+	"player_name": "Andre Drummond",
+	"birth_date": 744955200,
+	"position": "279",
+	"draftkings_id": 614746
+}, {
+	"player_id": 203084,
+	"team_id": 40,
+	"player_name": "Harrison Barnes",
+	"birth_date": 707198400,
+	"position": "225",
+	"draftkings_id": 552336
+}, {
+	"player_id": 203085,
+	"team_id": 25,
+	"player_name": "Austin Rivers",
+	"birth_date": 712641600,
+	"position": "200",
+	"draftkings_id": 601139
+}, {
+	"player_id": 203086,
+	"team_id": 11,
+	"player_name": "Meyers Leonard",
+	"birth_date": 699166800,
+	"position": "245",
+	"draftkings_id": 550131
+}, {
+	"player_id": 203087,
+	"team_id": 3,
+	"player_name": "Jeremy Lamb",
+	"birth_date": 707198400,
+	"position": "185",
+	"draftkings_id": 552980
+}, {
+	"player_id": 203088,
+	"team_id": 5,
+	"player_name": "Kendall Marshall",
+	"birth_date": 682574400,
+	"position": "200",
+	"draftkings_id": 552334
+}, {
+	"player_id": 203089,
+	"team_id": 31,
+	"player_name": "John Henson",
+	"birth_date": 662360400,
+	"position": "229",
+	"draftkings_id": 502871
+}, {
+	"player_id": 203090,
+	"team_id": 4,
+	"player_name": "Maurice Harkless",
+	"birth_date": 737092800,
+	"position": "215",
+	"draftkings_id": 609843
+}, {
+	"player_id": 203091,
+	"team_id": 0,
+	"player_name": "Royce White",
+	"birth_date": 671256000,
+	"position": "",
+	"draftkings_id": 0
+}, {
+	"player_id": 203092,
+	"team_id": 44,
+	"player_name": "Tyler Zeller",
+	"birth_date": 632552400,
+	"position": "253",
+	"draftkings_id": 462461
+}, {
+	"player_id": 203093,
+	"team_id": 6,
+	"player_name": "Terrence Jones",
+	"birth_date": 694933200,
+	"position": "252",
+	"draftkings_id": 553573
+}, {
+	"player_id": 203094,
+	"team_id": 44,
+	"player_name": "Andrew Nicholson",
+	"birth_date": 629096400,
+	"position": "250",
+	"draftkings_id": 462970
+}, {
+	"player_id": 203095,
+	"team_id": 10,
+	"player_name": "Evan Fournier",
+	"birth_date": 720334800,
+	"position": "205",
+	"draftkings_id": 659767
+}, {
+	"player_id": 203096,
+	"team_id": 7,
+	"player_name": "Jared Sullinger",
+	"birth_date": 699685200,
+	"position": "260",
+	"draftkings_id": 552403
+}, {
+	"player_id": 203098,
+	"team_id": 12,
+	"player_name": "John Jenkins",
+	"birth_date": 668235600,
+	"position": "215",
+	"draftkings_id": 509472
+}, {
+	"player_id": 203099,
+	"team_id": 9,
+	"player_name": "Jared Cunningham",
+	"birth_date": 674884800,
+	"position": "195",
+	"draftkings_id": 513339
+}, {
+	"player_id": 203100,
+	"team_id": 1,
+	"player_name": "Tony Wroten",
+	"birth_date": 734673600,
+	"position": "205",
+	"draftkings_id": 607544
+}, {
+	"player_id": 203101,
+	"team_id": 18,
+	"player_name": "Miles Plumlee",
+	"birth_date": 589089600,
+	"position": "249",
+	"draftkings_id": 467271
+}, {
+	"player_id": 203102,
+	"team_id": 5,
+	"player_name": "Arnett Moultrie",
+	"birth_date": 658904400,
+	"position": "240",
+	"draftkings_id": 0
+}, {
+	"player_id": 203103,
+	"team_id": 3,
+	"player_name": "Perry Jones",
+	"birth_date": 685684800,
+	"position": "235",
+	"draftkings_id": 551738
+}, {
+	"player_id": 203104,
+	"team_id": 12,
+	"player_name": "Marquis Teague",
+	"birth_date": 730875600,
+	"position": "190",
+	"draftkings_id": 0
+}, {
+	"player_id": 203105,
+	"team_id": 31,
+	"player_name": "Festus Ezeli",
+	"birth_date": 624945600,
+	"position": "265",
+	"draftkings_id": 417020
+}, {
+	"player_id": 203106,
+	"team_id": 44,
+	"player_name": "Jeff Taylor",
+	"birth_date": 611899200,
+	"position": "225",
+	"draftkings_id": 0
+}, {
+	"player_id": 203108,
+	"team_id": 55,
+	"player_name": "Bernard James",
+	"birth_date": 476600400,
+	"position": "235",
+	"draftkings_id": 552198
+}, {
+	"player_id": 203109,
+	"team_id": 99,
+	"player_name": "Jae Crowder",
+	"birth_date": 647236800,
+	"position": "235",
+	"draftkings_id": 552381
+}, {
+	"player_id": 203110,
+	"team_id": 23,
+	"player_name": "Draymond Green",
+	"birth_date": 636526800,
+	"position": "230",
+	"draftkings_id": 468895
+}, {
+	"player_id": 203111,
+	"team_id": 0,
+	"player_name": "Orlando Johnson",
+	"birth_date": 605595600,
+	"position": "",
+	"draftkings_id": 0
+}, {
+	"player_id": 203112,
+	"team_id": 13,
+	"player_name": "Quincy Acy",
+	"birth_date": 655185600,
+	"position": "240",
+	"draftkings_id": 469234
+}, {
+	"player_id": 203113,
+	"team_id": 34,
+	"player_name": "Quincy Miller",
+	"birth_date": 722062800,
+	"position": "210",
+	"draftkings_id": 604683
+}, {
+	"player_id": 203114,
+	"team_id": 22,
+	"player_name": "Khris Middleton",
+	"birth_date": 681969600,
+	"position": "234",
+	"draftkings_id": 512053
+}, {
+	"player_id": 203115,
+	"team_id": 5,
+	"player_name": "Will Barton",
+	"birth_date": 663138000,
+	"position": "175",
+	"draftkings_id": 551760
+}, {
+	"player_id": 203116,
+	"team_id": 0,
+	"player_name": "Tyshawn Taylor",
+	"birth_date": 639892800,
+	"position": "",
+	"draftkings_id": 0
+}, {
+	"player_id": 203117,
+	"team_id": 1,
+	"player_name": "Doron Lamb",
+	"birth_date": 689403600,
+	"position": "200",
+	"draftkings_id": 0
+}, {
+	"player_id": 203118,
+	"team_id": 32,
+	"player_name": "Mike Scott",
+	"birth_date": 585028800,
+	"position": "237",
+	"draftkings_id": 398034
+}, {
+	"player_id": 203120,
+	"team_id": 41,
+	"player_name": "Justin Hamilton",
+	"birth_date": 638946000,
+	"position": "255",
+	"draftkings_id": 458718
+}, {
+	"player_id": 203121,
+	"team_id": 0,
+	"player_name": "Darius Miller",
+	"birth_date": 637995600,
+	"position": "",
+	"draftkings_id": 0
+}, {
+	"player_id": 203123,
+	"team_id": 16,
+	"player_name": "Kostas Papanikolaou",
+	"birth_date": 649396800,
+	"position": "235",
+	"draftkings_id": 659780
+}, {
+	"player_id": 203124,
+	"team_id": 9,
+	"player_name": "Kyle O'Quinn",
+	"birth_date": 638427600,
+	"position": "250",
+	"draftkings_id": 483372
+}, {
+	"player_id": 203128,
+	"team_id": 19,
+	"player_name": "Furkan Aldemir",
+	"birth_date": 681710400,
+	"position": "240",
+	"draftkings_id": 659783
+}, {
+	"player_id": 203129,
+	"team_id": 0,
+	"player_name": "Tornike Shengelia",
+	"birth_date": 686635200,
+	"position": "",
+	"draftkings_id": 0
+}, {
+	"player_id": 203130,
+	"team_id": 0,
+	"player_name": "Darius Johnson-Odom",
+	"birth_date": 622958400,
+	"position": "",
+	"draftkings_id": 0
+}, {
+	"player_id": 203133,
+	"team_id": 4,
+	"player_name": "Robbie Hummel",
+	"birth_date": 605336400,
+	"position": "219",
+	"draftkings_id": 398421
+}, {
+	"player_id": 203135,
+	"team_id": 50,
+	"player_name": "Robert Sacre",
+	"birth_date": 613108800,
+	"position": "270",
+	"draftkings_id": 400617
+}, {
+	"player_id": 203136,
+	"team_id": 1,
+	"player_name": "Ognjen Kuzmic",
+	"birth_date": 642830400,
+	"position": "260",
+	"draftkings_id": 659782
+}, {
+	"player_id": 203138,
+	"team_id": 31,
+	"player_name": "Hollis Thompson",
+	"birth_date": 670654800,
+	"position": "206",
+	"draftkings_id": 513268
+}, {
+	"player_id": 203139,
+	"team_id": 0,
+	"player_name": "Viacheslav Kravtsov",
+	"birth_date": 556862400,
+	"position": "",
+	"draftkings_id": 0
+}, {
+	"player_id": 203141,
+	"team_id": 35,
+	"player_name": "Mirza Teletovic",
+	"birth_date": 495777600,
+	"position": "242",
+	"draftkings_id": 639311
+}, {
+	"player_id": 203142,
+	"team_id": 9,
+	"player_name": "Chris Copeland",
+	"birth_date": 448347600,
+	"position": "239",
+	"draftkings_id": 174092
+}, {
+	"player_id": 203143,
+	"team_id": 9,
+	"player_name": "Pablo Prigioni",
+	"birth_date": 232689600,
+	"position": "185",
+	"draftkings_id": 552599
+}, {
+	"player_id": 203144,
+	"team_id": 1,
+	"player_name": "Alexey Shved",
+	"birth_date": 598251600,
+	"position": "187",
+	"draftkings_id": 561872
+}, {
+	"player_id": 203145,
+	"team_id": 24,
+	"player_name": "Kent Bazemore",
+	"birth_date": 615268800,
+	"position": "201",
+	"draftkings_id": 410764
+}, {
+	"player_id": 203146,
+	"team_id": 0,
+	"player_name": "Maalik Wayns",
+	"birth_date": 673156800,
+	"position": "",
+	"draftkings_id": 0
+}, {
+	"player_id": 203147,
+	"team_id": 0,
+	"player_name": "Chris Smith",
+	"birth_date": 561096000,
+	"position": "",
+	"draftkings_id": 0
+}, {
+	"player_id": 203148,
+	"team_id": 22,
+	"player_name": "Brian Roberts",
+	"birth_date": 502434000,
+	"position": "173",
+	"draftkings_id": 263565
+}, {
+	"player_id": 203156,
+	"team_id": 35,
+	"player_name": "Henry Sims",
+	"birth_date": 638514000,
+	"position": "248",
+	"draftkings_id": 467471
+}, {
+	"player_id": 203183,
+	"team_id": 0,
+	"player_name": "Tony Mitchell",
+	"birth_date": 618465600,
+	"position": "",
+	"draftkings_id": 604490
+}, {
+	"player_id": 203186,
+	"team_id": 33,
+	"player_name": "Willie Reed",
+	"birth_date": 642830400,
+	"position": "220",
+	"draftkings_id": 469333
+}, {
+	"player_id": 203187,
+	"team_id": 23,
+	"player_name": "Chris Johnson",
+	"birth_date": 641361600,
+	"position": "206",
+	"draftkings_id": 462745
+}, {
+	"player_id": 203197,
+	"team_id": 8,
+	"player_name": "Diante Garrett",
+	"birth_date": 594536400,
+	"position": "190",
+	"draftkings_id": 0
+}, {
+	"player_id": 203200,
+	"team_id": 7,
+	"player_name": "Justin Holiday",
+	"birth_date": 607752000,
+	"position": "185",
+	"draftkings_id": 395365
+}, {
+	"player_id": 203210,
+	"team_id": 0,
+	"player_name": "JaMychal Green",
+	"birth_date": 645940800,
+	"position": "227",
+	"draftkings_id": 460833
+}, {
+	"player_id": 203254,
+	"team_id": 0,
+	"player_name": "JaMychal Green",
+	"birth_date": 645940800,
+	"position": "",
+	"draftkings_id": 0
+}, {
+	"player_id": 203263,
+	"team_id": 0,
+	"player_name": "James Nunnally",
+	"birth_date": 647928000,
+	"position": "",
+	"draftkings_id": 0
+}, {
+	"player_id": 203268,
+	"team_id": 13,
+	"player_name": "Jorge Gutierrez",
+	"birth_date": 599202000,
+	"position": "195",
+	"draftkings_id": 457350
+}, {
+	"player_id": 203296,
+	"team_id": 0,
+	"player_name": "Quincy Miller",
+	"birth_date": 722062800,
+	"position": "",
+	"draftkings_id": 0
+}, {
+	"player_id": 203315,
+	"team_id": 0,
+	"player_name": "Toure Murry",
+	"birth_date": 626504400,
+	"position": "",
+	"draftkings_id": 470273
+}, {
+	"player_id": 203318,
+	"team_id": 0,
+	"player_name": "Glen Rice Jr.",
+	"birth_date": 662706000,
+	"position": "",
+	"draftkings_id": 502812
+}, {
+	"player_id": 203382,
+	"team_id": 12,
+	"player_name": "Aron Baynes",
+	"birth_date": 534488400,
+	"position": "260",
+	"draftkings_id": 296379
+}, {
+	"player_id": 203457,
+	"team_id": 4,
+	"player_name": "Nerlens Noel",
+	"birth_date": 765950400,
+	"position": "228",
+	"draftkings_id": 699947
+}, {
+	"player_id": 203458,
+	"team_id": 21,
+	"player_name": "Alex Len",
+	"birth_date": 740203200,
+	"position": "260",
+	"draftkings_id": 616982
+}, {
+	"player_id": 203459,
+	"team_id": 23,
+	"player_name": "Allen Crabbe",
+	"birth_date": 702792000,
+	"position": "210",
+	"draftkings_id": 548610
+}, {
+	"player_id": 203460,
+	"team_id": 21,
+	"player_name": "Andre Roberson",
+	"birth_date": 691822800,
+	"position": "210",
+	"draftkings_id": 548635
+}, {
+	"player_id": 203461,
+	"team_id": 15,
+	"player_name": "Anthony Bennett",
+	"birth_date": 732085200,
+	"position": "245",
+	"draftkings_id": 703474
+}, {
+	"player_id": 203462,
+	"team_id": 20,
+	"player_name": "Archie Goodwin",
+	"birth_date": 777096000,
+	"position": "200",
+	"draftkings_id": 699948
+}, {
+	"player_id": 203463,
+	"team_id": 23,
+	"player_name": "Ben McLemore",
+	"birth_date": 729406800,
+	"position": "195",
+	"draftkings_id": 604898
+}, {
+	"player_id": 203467,
+	"team_id": 30,
+	"player_name": "Carrick Felix",
+	"birth_date": 650865600,
+	"position": "201",
+	"draftkings_id": 0
+}, {
+	"player_id": 203468,
+	"team_id": 3,
+	"player_name": "CJ McCollum",
+	"birth_date": 685252800,
+	"position": "200",
+	"draftkings_id": 522878
+}, {
+	"player_id": 203469,
+	"team_id": 40,
+	"player_name": "Cody Zeller",
+	"birth_date": 718257600,
+	"position": "240",
+	"draftkings_id": 602028
+}, {
+	"player_id": 203471,
+	"team_id": 17,
+	"player_name": "Dennis Schroder",
+	"birth_date": 748065600,
+	"position": "172",
+	"draftkings_id": 739958
+}, {
+	"player_id": 203473,
+	"team_id": 3,
+	"player_name": "Dewayne Dedmon",
+	"birth_date": 618897600,
+	"position": "245",
+	"draftkings_id": 606642
+}, {
+	"player_id": 203474,
+	"team_id": 0,
+	"player_name": "DJ Stephens",
+	"birth_date": 661582800,
+	"position": "",
+	"draftkings_id": 524963
+}, {
+	"player_id": 203475,
+	"team_id": 0,
+	"player_name": "Erick Green",
+	"birth_date": 673761600,
+	"position": "",
+	"draftkings_id": 510954
+}, {
+	"player_id": 203476,
+	"team_id": 5,
+	"player_name": "Gorgui Dieng",
+	"birth_date": 632638800,
+	"position": "241",
+	"draftkings_id": 553158
+}, {
+	"player_id": 203477,
+	"team_id": 0,
+	"player_name": "Isaiah Canaan",
+	"birth_date": 674798400,
+	"position": "201",
+	"draftkings_id": 509094
+}, {
+	"player_id": 203479,
+	"team_id": 22,
+	"player_name": "Jamaal Franklin",
+	"birth_date": 680068800,
+	"position": "191",
+	"draftkings_id": 561509
+}, {
+	"player_id": 203480,
+	"team_id": 31,
+	"player_name": "James Southerland",
+	"birth_date": 641275200,
+	"position": "215",
+	"draftkings_id": 0
+}, {
+	"player_id": 203481,
+	"team_id": 24,
+	"player_name": "Jeff Withey",
+	"birth_date": 636786000,
+	"position": "231",
+	"draftkings_id": 457334
+}, {
+	"player_id": 203482,
+	"team_id": 41,
+	"player_name": "Kelly Olynyk",
+	"birth_date": 672033600,
+	"position": "238",
+	"draftkings_id": 514882
+}, {
+	"player_id": 203484,
+	"team_id": 5,
+	"player_name": "Kentavious Caldwell-Pope",
+	"birth_date": 730011600,
+	"position": "205",
+	"draftkings_id": 602730
+}, {
+	"player_id": 203485,
+	"team_id": 7,
+	"player_name": "Lorenzo Brown",
+	"birth_date": 651643200,
+	"position": "189",
+	"draftkings_id": 502908
+}, {
+	"player_id": 203486,
+	"team_id": 24,
+	"player_name": "Mason Plumlee",
+	"birth_date": 636613200,
+	"position": "235",
+	"draftkings_id": 510790
+}, {
+	"player_id": 203487,
+	"team_id": 5,
+	"player_name": "Michael Carter-Williams",
+	"birth_date": 687067200,
+	"position": "190",
+	"draftkings_id": 609790
+}, {
+	"player_id": 203488,
+	"team_id": 31,
+	"player_name": "Mike Muscala",
+	"birth_date": 678340800,
+	"position": "240",
+	"draftkings_id": 520388
+}, {
+	"player_id": 203489,
+	"team_id": 0,
+	"player_name": "Nate Wolters",
+	"birth_date": 674280000,
+	"position": "",
+	"draftkings_id": 523820
+}, {
+	"player_id": 203490,
+	"team_id": 22,
+	"player_name": "Otto Porter",
+	"birth_date": 739080000,
+	"position": "198",
+	"draftkings_id": 609256
+}, {
+	"player_id": 203491,
+	"team_id": 34,
+	"player_name": "Peyton Siva",
+	"birth_date": 656740800,
+	"position": "185",
+	"draftkings_id": 0
+}, {
+	"player_id": 203492,
+	"team_id": 3,
+	"player_name": "Ray McCallum",
+	"birth_date": 676699200,
+	"position": "190",
+	"draftkings_id": 567408
+}, {
+	"player_id": 203493,
+	"team_id": 25,
+	"player_name": "Reggie Bullock",
+	"birth_date": 669099600,
+	"position": "205",
+	"draftkings_id": 552335
+}, {
+	"player_id": 203495,
+	"team_id": 11,
+	"player_name": "Ricky Ledo",
+	"birth_date": 716097600,
+	"position": "195",
+	"draftkings_id": 715201
+}, {
+	"player_id": 203496,
+	"team_id": 33,
+	"player_name": "Robert Covington",
+	"birth_date": 661150800,
+	"position": "215",
+	"draftkings_id": 525052
+}, {
+	"player_id": 203497,
+	"team_id": 27,
+	"player_name": "Rudy Gobert",
+	"birth_date": 709531200,
+	"position": "245",
+	"draftkings_id": 739960
+}, {
+	"player_id": 203498,
+	"team_id": 15,
+	"player_name": "Shabazz Muhammad",
+	"birth_date": 721630800,
+	"position": "223",
+	"draftkings_id": 697722
+}, {
+	"player_id": 203499,
+	"team_id": 0,
+	"player_name": "Shane Larkin",
+	"birth_date": 717998400,
+	"position": "175",
+	"draftkings_id": 623253
+}, {
+	"player_id": 203500,
+	"team_id": 12,
+	"player_name": "Steven Adams",
+	"birth_date": 743140800,
+	"position": "255",
+	"draftkings_id": 679478
+}, {
+	"player_id": 203501,
+	"team_id": 10,
+	"player_name": "Tim Hardaway Jr.",
+	"birth_date": 700722000,
+	"position": "205",
+	"draftkings_id": 551771
+}, {
+	"player_id": 203502,
+	"team_id": 9,
+	"player_name": "Tony Mitchell",
+	"birth_date": 702619200,
+	"position": "235",
+	"draftkings_id": 0
+}, {
+	"player_id": 203503,
+	"team_id": 20,
+	"player_name": "Tony Snell",
+	"birth_date": 689749200,
+	"position": "200",
+	"draftkings_id": 550991
+}, {
+	"player_id": 203504,
+	"team_id": 3,
+	"player_name": "Trey Burke",
+	"birth_date": 721544400,
+	"position": "191",
+	"draftkings_id": 605708
+}, {
+	"player_id": 203505,
+	"team_id": 12,
+	"player_name": "Vander Blue",
+	"birth_date": 711777600,
+	"position": "200",
+	"draftkings_id": 0
+}, {
+	"player_id": 203506,
+	"team_id": 5,
+	"player_name": "Victor Oladipo",
+	"birth_date": 704952000,
+	"position": "210",
+	"draftkings_id": 553166
+}, {
+	"player_id": 203507,
+	"team_id": 34,
+	"player_name": "Giannis Antetokounmpo",
+	"birth_date": 786690000,
+	"position": "222",
+	"draftkings_id": 739957
+}, {
+	"player_id": 203508,
+	"team_id": 10,
+	"player_name": "Sergey Karasev",
+	"birth_date": 751608000,
+	"position": "208",
+	"draftkings_id": 679323
+}, {
+	"player_id": 203511,
+	"team_id": 17,
+	"player_name": "Grant Jerrett",
+	"birth_date": 742104000,
+	"position": "232",
+	"draftkings_id": 696047
+}, {
+	"player_id": 203512,
+	"team_id": 92,
+	"player_name": "Lucas Nogueira",
+	"birth_date": 712123200,
+	"position": "220",
+	"draftkings_id": 639296
+}, {
+	"player_id": 203513,
+	"team_id": 33,
+	"player_name": "Erik Murphy",
+	"birth_date": 656913600,
+	"position": "230",
+	"draftkings_id": 0
+}, {
+	"player_id": 203515,
+	"team_id": 26,
+	"player_name": "Phil Pressey",
+	"birth_date": 666766800,
+	"position": "175",
+	"draftkings_id": 552183
+}, {
+	"player_id": 203516,
+	"team_id": 8,
+	"player_name": "James Ennis",
+	"birth_date": 646804800,
+	"position": "210",
+	"draftkings_id": 602135
+}, {
+	"player_id": 203517,
+	"team_id": 8,
+	"player_name": "Nemanja Nedovic",
+	"birth_date": 677044800,
+	"position": "192",
+	"draftkings_id": 0
+}, {
+	"player_id": 203519,
+	"team_id": 7,
+	"player_name": "Adonis Thomas",
+	"birth_date": 733035600,
+	"position": "240",
+	"draftkings_id": 609820
+}, {
+	"player_id": 203521,
+	"team_id": 8,
+	"player_name": "Matthew Dellavedova",
+	"birth_date": 652766400,
+	"position": "198",
+	"draftkings_id": 531447
+}, {
+	"player_id": 203524,
+	"team_id": 44,
+	"player_name": "Solomon Hill",
+	"birth_date": 669272400,
+	"position": "225",
+	"draftkings_id": 509169
+}, {
+	"player_id": 203526,
+	"team_id": 25,
+	"player_name": "Raul Neto",
+	"birth_date": 706248000,
+	"position": "179",
+	"draftkings_id": 739966
+}, {
+	"player_id": 203527,
+	"team_id": 4,
+	"player_name": "Ryan Kelly",
+	"birth_date": 671169600,
+	"position": "230",
+	"draftkings_id": 510784
+}, {
+	"player_id": 203530,
+	"team_id": 77,
+	"player_name": "Joffrey Lauvergne",
+	"birth_date": 686203200,
+	"position": "220",
+	"draftkings_id": 739968
+}, {
+	"player_id": 203539,
+	"team_id": 0,
+	"player_name": "Gal Mekel",
+	"birth_date": 573454800,
+	"position": "",
+	"draftkings_id": 351329
+}, {
+	"player_id": 203540,
+	"team_id": 70,
+	"player_name": "Gigi Datome",
+	"birth_date": 564987600,
+	"position": "215",
+	"draftkings_id": 478213
+}, {
+	"player_id": 203543,
+	"team_id": 38,
+	"player_name": "Vitor Faverani",
+	"birth_date": 578808000,
+	"position": "260",
+	"draftkings_id": 743822
+}, {
+	"player_id": 203544,
+	"team_id": 6,
+	"player_name": "Pero Antic",
+	"birth_date": 396763200,
+	"position": "260",
+	"draftkings_id": 746146
+}, {
+	"player_id": 203545,
+	"team_id": 0,
+	"player_name": "Miroslav Raduljica",
+	"birth_date": 568357200,
+	"position": "",
+	"draftkings_id": 553333
+}, {
+	"player_id": 203546,
+	"team_id": 21,
+	"player_name": "Ian Clark",
+	"birth_date": 668322000,
+	"position": "175",
+	"draftkings_id": 504523
+}, {
+	"player_id": 203548,
+	"team_id": 0,
+	"player_name": "Elias Harris",
+	"birth_date": 615700800,
+	"position": "",
+	"draftkings_id": 0
+}, {
+	"player_id": 203552,
+	"team_id": 30,
+	"player_name": "Seth Curry",
+	"birth_date": 651384000,
+	"position": "185",
+	"draftkings_id": 463135
+}, {
+	"player_id": 203561,
+	"team_id": 0,
+	"player_name": "Brandon Davies",
+	"birth_date": 680414400,
+	"position": "",
+	"draftkings_id": 508952
+}, {
+	"player_id": 203564,
+	"team_id": 0,
+	"player_name": "Kalin Lucas",
+	"birth_date": 611985600,
+	"position": "",
+	"draftkings_id": 0
+}, {
+	"player_id": 203565,
+	"team_id": 0,
+	"player_name": "Patrick Christopher",
+	"birth_date": 581313600,
+	"position": "",
+	"draftkings_id": 329713
+}, {
+	"player_id": 203569,
+	"team_id": 52,
+	"player_name": "Chris Babb",
+	"birth_date": 634971600,
+	"position": "225",
+	"draftkings_id": 458940
+}, {
+	"player_id": 203580,
+	"team_id": 0,
+	"player_name": "Larry Drew",
+	"birth_date": 636613200,
+	"position": "",
+	"draftkings_id": 0
+}, {
+	"player_id": 203584,
+	"team_id": 30,
+	"player_name": "Troy Daniels",
+	"birth_date": 679550400,
+	"position": "205",
+	"draftkings_id": 513526
+}, {
+	"player_id": 203613,
+	"team_id": 17,
+	"player_name": "Jonathon Simmons",
+	"birth_date": 621748800,
+	"position": "195",
+	"draftkings_id": 553548
+}, {
+	"player_id": 203798,
+	"team_id": 19,
+	"player_name": "PJ Hairston",
+	"birth_date": 725173200,
+	"position": "230",
+	"draftkings_id": 609567
+}, {
+	"player_id": 203805,
+	"team_id": 0,
+	"player_name": "Will Cherry",
+	"birth_date": 665989200,
+	"position": "",
+	"draftkings_id": 0
+}, {
+	"player_id": 203810,
+	"team_id": 17,
+	"player_name": "Casper Ware",
+	"birth_date": 632552400,
+	"position": "175",
+	"draftkings_id": 0
+}, {
+	"player_id": 203816,
+	"team_id": 24,
+	"player_name": "Scotty Hopson",
+	"birth_date": 618552000,
+	"position": "204",
+	"draftkings_id": 0
+}, {
+	"player_id": 203893,
+	"team_id": 2,
+	"player_name": "Russ Smith",
+	"birth_date": 672033600,
+	"position": "165",
+	"draftkings_id": 553160
+}, {
+	"player_id": 203894,
+	"team_id": 13,
+	"player_name": "Shabazz Napier",
+	"birth_date": 679464000,
+	"position": "175",
+	"draftkings_id": 552982
+}, {
+	"player_id": 203897,
+	"team_id": 8,
+	"player_name": "Zach LaVine",
+	"birth_date": 794811600,
+	"position": "189",
+	"draftkings_id": 743777
+}, {
+	"player_id": 203898,
+	"team_id": 11,
+	"player_name": "Tyler Ennis",
+	"birth_date": 777700800,
+	"position": "194",
+	"draftkings_id": 786387
+}, {
+	"player_id": 203900,
+	"team_id": 22,
+	"player_name": "Markel Brown",
+	"birth_date": 696661200,
+	"position": "190",
+	"draftkings_id": 553184
+}, {
+	"player_id": 203901,
+	"team_id": 4,
+	"player_name": "Elfrid Payton",
+	"birth_date": 761893200,
+	"position": "185",
+	"draftkings_id": 608661
+}, {
+	"player_id": 203903,
+	"team_id": 6,
+	"player_name": "Jordan Clarkson",
+	"birth_date": 707889600,
+	"position": "194",
+	"draftkings_id": 551975
+}, {
+	"player_id": 203906,
+	"team_id": 11,
+	"player_name": "Devyn Marble",
+	"birth_date": 717048000,
+	"position": "200",
+	"draftkings_id": 553557
+}, {
+	"player_id": 203909,
+	"team_id": 32,
+	"player_name": "KJ McDaniels",
+	"birth_date": 729234000,
+	"position": "205",
+	"draftkings_id": 604734
+}, {
+	"player_id": 203910,
+	"team_id": 3,
+	"player_name": "Nick Johnson",
+	"birth_date": 725000400,
+	"position": "202",
+	"draftkings_id": 602418
+}, {
+	"player_id": 203912,
+	"team_id": 30,
+	"player_name": "CJ Wilcox",
+	"birth_date": 662533200,
+	"position": "195",
+	"draftkings_id": 509350
+}, {
+	"player_id": 203913,
+	"team_id": 15,
+	"player_name": "Jabari Brown",
+	"birth_date": 724654800,
+	"position": "214",
+	"draftkings_id": 605885
+}, {
+	"player_id": 203914,
+	"team_id": 14,
+	"player_name": "Gary Harris",
+	"birth_date": 779515200,
+	"position": "210",
+	"draftkings_id": 712593
+}, {
+	"player_id": 203915,
+	"team_id": 8,
+	"player_name": "Spencer Dinwiddie",
+	"birth_date": 734068800,
+	"position": "200",
+	"draftkings_id": 602411
+}, {
+	"player_id": 203917,
+	"team_id": 11,
+	"player_name": "Nik Stauskas",
+	"birth_date": 749966400,
+	"position": "205",
+	"draftkings_id": 698985
+}, {
+	"player_id": 203918,
+	"team_id": 5,
+	"player_name": "Rodney Hood",
+	"birth_date": 719553600,
+	"position": "206",
+	"draftkings_id": 603106
+}, {
+	"player_id": 203919,
+	"team_id": 3,
+	"player_name": "Jordan Adams",
+	"birth_date": 773640000,
+	"position": "209",
+	"draftkings_id": 697719
+}, {
+	"player_id": 203921,
+	"team_id": 11,
+	"player_name": "Cleanthony Early",
+	"birth_date": 671860800,
+	"position": "210",
+	"draftkings_id": 707829
+}, {
+	"player_id": 203922,
+	"team_id": 40,
+	"player_name": "Glenn Robinson",
+	"birth_date": 758005200,
+	"position": "222",
+	"draftkings_id": 0
+}, {
+	"player_id": 203923,
+	"team_id": 13,
+	"player_name": "James Young",
+	"birth_date": 808545600,
+	"position": "215",
+	"draftkings_id": 786406
+}, {
+	"player_id": 203924,
+	"team_id": 39,
+	"player_name": "Jerami Grant",
+	"birth_date": 763448400,
+	"position": "210",
+	"draftkings_id": 699826
+}, {
+	"player_id": 203925,
+	"team_id": 12,
+	"player_name": "Joe Harris",
+	"birth_date": 684216000,
+	"position": "219",
+	"draftkings_id": 549969
+}, {
+	"player_id": 203926,
+	"team_id": 3,
+	"player_name": "Doug McDermott",
+	"birth_date": 694414800,
+	"position": "225",
+	"draftkings_id": 554804
+}, {
+	"player_id": 203928,
+	"team_id": 55,
+	"player_name": "Cory Jefferson",
+	"birth_date": 662187600,
+	"position": "218",
+	"draftkings_id": 511659
+}, {
+	"player_id": 203930,
+	"team_id": 0,
+	"player_name": "Sean Kilpatrick",
+	"birth_date": 631602000,
+	"position": "",
+	"draftkings_id": 511055
+}, {
+	"player_id": 203932,
+	"team_id": 0,
+	"player_name": "Aaron Gordon",
+	"birth_date": 811224000,
+	"position": "220",
+	"draftkings_id": 748788
+}, {
+	"player_id": 203933,
+	"team_id": 12,
+	"player_name": "TJ Warren",
+	"birth_date": 747201600,
+	"position": "230",
+	"draftkings_id": 660085
+}, {
+	"player_id": 203934,
+	"team_id": 13,
+	"player_name": "Lamar Patterson",
+	"birth_date": 681969600,
+	"position": "225",
+	"draftkings_id": 504905
+}, {
+	"player_id": 203935,
+	"team_id": 36,
+	"player_name": "Marcus Smart",
+	"birth_date": 762930000,
+	"position": "220",
+	"draftkings_id": 697132
+}, {
+	"player_id": 203937,
+	"team_id": 1,
+	"player_name": "Kyle Anderson",
+	"birth_date": 748497600,
+	"position": "230",
+	"draftkings_id": 697720
+}, {
+	"player_id": 203939,
+	"team_id": 7,
+	"player_name": "Dwight Powell",
+	"birth_date": 679982400,
+	"position": "240",
+	"draftkings_id": 552309
+}, {
+	"player_id": 203940,
+	"team_id": 33,
+	"player_name": "Adreian Payne",
+	"birth_date": 666939600,
+	"position": "237",
+	"draftkings_id": 553607
+}, {
+	"player_id": 203942,
+	"team_id": 0,
+	"player_name": "Patric Young",
+	"birth_date": 696920400,
+	"position": "",
+	"draftkings_id": 0
+}, {
+	"player_id": 203943,
+	"team_id": 21,
+	"player_name": "Noah Vonleh",
+	"birth_date": 809236800,
+	"position": "240",
+	"draftkings_id": 786397
+}, {
+	"player_id": 203944,
+	"team_id": 30,
+	"player_name": "Julius Randle",
+	"birth_date": 786085200,
+	"position": "250",
+	"draftkings_id": 786412
+}, {
+	"player_id": 203945,
+	"team_id": 0,
+	"player_name": "Alex Kirk",
+	"birth_date": 690094800,
+	"position": "",
+	"draftkings_id": 550993
+}, {
+	"player_id": 203946,
+	"team_id": 41,
+	"player_name": "Cameron Bairstow",
+	"birth_date": 660546000,
+	"position": "250",
+	"draftkings_id": 550992
+}, {
+	"player_id": 203948,
+	"team_id": 77,
+	"player_name": "Johnny O'Bryant",
+	"birth_date": 738907200,
+	"position": "257",
+	"draftkings_id": 603100
+}, {
+	"player_id": 203949,
+	"team_id": 20,
+	"player_name": "James Michael McAdoo",
+	"birth_date": 726123600,
+	"position": "240",
+	"draftkings_id": 609569
+}, {
+	"player_id": 203950,
+	"team_id": 12,
+	"player_name": "Jarnell Stokes",
+	"birth_date": 757918800,
+	"position": "255",
+	"draftkings_id": 639269
+}, {
+	"player_id": 203952,
+	"team_id": 22,
+	"player_name": "Andrew Wiggins",
+	"birth_date": 793515600,
+	"position": "199",
+	"draftkings_id": 794503
+}, {
+	"player_id": 203953,
+	"team_id": 12,
+	"player_name": "Jabari Parker",
+	"birth_date": 795243600,
+	"position": "250",
+	"draftkings_id": 756880
+}, {
+	"player_id": 203955,
+	"team_id": 8,
+	"player_name": "Bryce Cotton",
+	"birth_date": 713505600,
+	"position": "165",
+	"draftkings_id": 575469
+}, {
+	"player_id": 203956,
+	"team_id": 33,
+	"player_name": "Mitch McGary",
+	"birth_date": 707803200,
+	"position": "255",
+	"draftkings_id": 698982
+}, {
+	"player_id": 203957,
+	"team_id": 11,
+	"player_name": "Dante Exum",
+	"birth_date": 805608000,
+	"position": "190",
+	"draftkings_id": 830636
+}, {
+	"player_id": 203958,
+	"team_id": 0,
+	"player_name": "Andre Dawkins",
+	"birth_date": 685252800,
+	"position": "",
+	"draftkings_id": 518947
+}, {
+	"player_id": 203960,
+	"team_id": 9,
+	"player_name": "JaKarr Sampson",
+	"birth_date": 732603600,
+	"position": "214",
+	"draftkings_id": 609848
+}, {
+	"player_id": 203961,
+	"team_id": 25,
+	"player_name": "Eric Moreland",
+	"birth_date": 693550800,
+	"position": "238",
+	"draftkings_id": 553542
+}, {
+	"player_id": 203962,
+	"team_id": 34,
+	"player_name": "Josh Huestis",
+	"birth_date": 693118800,
+	"position": "230",
+	"draftkings_id": 552307
+}, {
+	"player_id": 203963,
+	"team_id": 42,
+	"player_name": "Shayne Whittington",
+	"birth_date": 670050000,
+	"position": "250",
+	"draftkings_id": 508237
+}, {
+	"player_id": 203968,
+	"team_id": 0,
+	"player_name": "Jerrelle Benimon",
+	"birth_date": 681019200,
+	"position": "",
+	"draftkings_id": 0
+}, {
+	"player_id": 203991,
+	"team_id": 15,
+	"player_name": "Clint Capela",
+	"birth_date": 769233600,
+	"position": "240",
+	"draftkings_id": 830647
+}, {
+	"player_id": 203994,
+	"team_id": 23,
+	"player_name": "Jusuf Nurkic",
+	"birth_date": 777614400,
+	"position": "280",
+	"draftkings_id": 830642
+}, {
+	"player_id": 203996,
+	"team_id": 17,
+	"player_name": "Damien Inglis",
+	"birth_date": 800942400,
+	"position": "246",
+	"draftkings_id": 830649
+}, {
+	"player_id": 203998,
+	"team_id": 20,
+	"player_name": "Bruno Caboclo",
+	"birth_date": 811656000,
+	"position": "205",
+	"draftkings_id": 830646
+}, {
+	"player_id": 203999,
+	"team_id": 15,
+	"player_name": "Nikola Jokic",
+	"birth_date": 793170000,
+	"position": "250",
+	"draftkings_id": 830650
+}, {
+	"player_id": 204001,
+	"team_id": 6,
+	"player_name": "Kristaps Porzingis",
+	"birth_date": 807336000,
+	"position": "240",
+	"draftkings_id": 877869
+}, {
+	"player_id": 204002,
+	"team_id": 22,
+	"player_name": "Walter Tavares",
+	"birth_date": 701240400,
+	"position": "260",
+	"draftkings_id": 830651
+}, {
+	"player_id": 204014,
+	"team_id": 10,
+	"player_name": "Damjan Rudez",
+	"birth_date": 519364800,
+	"position": "228",
+	"draftkings_id": 833017
+}, {
+	"player_id": 204020,
+	"team_id": 8,
+	"player_name": "Tyler Johnson",
+	"birth_date": 705211200,
+	"position": "186",
+	"draftkings_id": 571786
+}, {
+	"player_id": 204021,
+	"team_id": 0,
+	"player_name": "Sim Bhullar",
+	"birth_date": 723272400,
+	"position": "",
+	"draftkings_id": 0
+}, {
+	"player_id": 204022,
+	"team_id": 45,
+	"player_name": "Jack Cooley",
+	"birth_date": 670741200,
+	"position": "246",
+	"draftkings_id": 511074
+}, {
+	"player_id": 204025,
+	"team_id": 10,
+	"player_name": "Tim Frazier",
+	"birth_date": 657435600,
+	"position": "170",
+	"draftkings_id": 513606
+}, {
+	"player_id": 204028,
+	"team_id": 28,
+	"player_name": "Tarik Black",
+	"birth_date": 690786000,
+	"position": "250",
+	"draftkings_id": 551761
+}, {
+	"player_id": 204033,
+	"team_id": 0,
+	"player_name": "David Wear",
+	"birth_date": 653889600,
+	"position": "",
+	"draftkings_id": 0
+}, {
+	"player_id": 204037,
+	"team_id": 6,
+	"player_name": "Travis Wear",
+	"birth_date": 653889600,
+	"position": "225",
+	"draftkings_id": 502881
+}, {
+	"player_id": 204038,
+	"team_id": 2,
+	"player_name": "Langston Galloway",
+	"birth_date": 692254800,
+	"position": "200",
+	"draftkings_id": 551321
+}, {
+	"player_id": 204040,
+	"team_id": 0,
+	"player_name": "Ronald Roberts",
+	"birth_date": 681364800,
+	"position": "",
+	"draftkings_id": 551323
+}, {
+	"player_id": 204054,
+	"team_id": 12,
+	"player_name": "Zoran Dragic",
+	"birth_date": 614491200,
+	"position": "200",
+	"draftkings_id": 561879
+}, {
+	"player_id": 204060,
+	"team_id": 2,
+	"player_name": "Joe Ingles",
+	"birth_date": 560145600,
+	"position": "226",
+	"draftkings_id": 553306
+}, {
+	"player_id": 204065,
+	"team_id": 9,
+	"player_name": "David Stockton",
+	"birth_date": 677736000,
+	"position": "165",
+	"draftkings_id": 524952
+}, {
+	"player_id": 204067,
+	"team_id": 0,
+	"player_name": "Jarell Eddie",
+	"birth_date": 688798800,
+	"position": "",
+	"draftkings_id": 552302
+}, {
+	"player_id": 204079,
+	"team_id": 0,
+	"player_name": "Drew Gordon",
+	"birth_date": 647755200,
+	"position": "",
+	"draftkings_id": 0
+}, {
+	"player_id": 204456,
+	"team_id": 12,
+	"player_name": "TJ McConnell",
+	"birth_date": 701499600,
+	"position": "200",
+	"draftkings_id": 551787
+}, {
+	"player_id": 665382,
+	"team_id": 0,
+	"player_name": "Dexter Pittman",
+	"birth_date": -2147483648,
+	"position": "",
+	"draftkings_id": 0
+}, {
+	"player_id": 1626143,
+	"team_id": 8,
+	"player_name": "Jahlil Okafor",
+	"birth_date": 819003600,
+	"position": "275",
+	"draftkings_id": 842301
+}, {
+	"player_id": 1626144,
+	"team_id": 0,
+	"player_name": "Emmanuel Mudiay",
+	"birth_date": 826002000,
+	"position": "200",
+	"draftkings_id": 877870
+}, {
+	"player_id": 1626145,
+	"team_id": 1,
+	"player_name": "Tyus Jones",
+	"birth_date": 831700800,
+	"position": "195",
+	"draftkings_id": 842297
+}, {
+	"player_id": 1626146,
+	"team_id": 34,
+	"player_name": "Cliff Alexander",
+	"birth_date": 816498000,
+	"position": "240",
+	"draftkings_id": 843227
+}, {
+	"player_id": 1626147,
+	"team_id": 1,
+	"player_name": "Justin Anderson",
+	"birth_date": 753685200,
+	"position": "228",
+	"draftkings_id": 697982
+}, {
+	"player_id": 1626148,
+	"team_id": 3,
+	"player_name": "Anthony Brown",
+	"birth_date": 718689600,
+	"position": "210",
+	"draftkings_id": 552305
+}, {
+	"player_id": 1626149,
+	"team_id": 35,
+	"player_name": "Montrezl Harrell",
+	"birth_date": 759560400,
+	"position": "240",
+	"draftkings_id": 698651
+}, {
+	"player_id": 1626151,
+	"team_id": 9,
+	"player_name": "Aaron Harrison",
+	"birth_date": 783316800,
+	"position": "210",
+	"draftkings_id": 786407
+}, {
+	"player_id": 1626153,
+	"team_id": 55,
+	"player_name": "Delon Wright",
+	"birth_date": 704260800,
+	"position": "190",
+	"draftkings_id": 744102
+}, {
+	"player_id": 1626154,
+	"team_id": 28,
+	"player_name": "RJ Hunter",
+	"birth_date": 751435200,
+	"position": "185",
+	"draftkings_id": 691716
+}, {
+	"player_id": 1626155,
+	"team_id": 7,
+	"player_name": "Sam Dekker",
+	"birth_date": 768369600,
+	"position": "230",
+	"draftkings_id": 691518
+}, {
+	"player_id": 1626156,
+	"team_id": 1,
+	"player_name": "D'Angelo Russell",
+	"birth_date": 825051600,
+	"position": "195",
+	"draftkings_id": 0
+}, {
+	"player_id": 1626157,
+	"team_id": 32,
+	"player_name": "Karl-Anthony Towns",
+	"birth_date": 816411600,
+	"position": "244",
+	"draftkings_id": 0
+}, {
+	"player_id": 1626158,
+	"team_id": 22,
+	"player_name": "Richaun Holmes",
+	"birth_date": 750657600,
+	"position": "245",
+	"draftkings_id": 695069
+}, {
+	"player_id": 1626159,
+	"team_id": 20,
+	"player_name": "Justise Winslow",
+	"birth_date": 827816400,
+	"position": "225",
+	"draftkings_id": 842298
+}, {
+	"player_id": 1626161,
+	"team_id": 0,
+	"player_name": "Willie Cauley-Stein",
+	"birth_date": 745646400,
+	"position": "240",
+	"draftkings_id": 0
+}, {
+	"player_id": 1626162,
+	"team_id": 12,
+	"player_name": "Kelly Oubre",
+	"birth_date": 818485200,
+	"position": "205",
+	"draftkings_id": 0
+}, {
+	"player_id": 1626163,
+	"team_id": 44,
+	"player_name": "Frank Kaminsky",
+	"birth_date": 733899600,
+	"position": "240",
+	"draftkings_id": 606731
+}, {
+	"player_id": 1626164,
+	"team_id": 1,
+	"player_name": "Devin Booker",
+	"birth_date": 846651600,
+	"position": "206",
+	"draftkings_id": 845564
+}, {
+	"player_id": 1626166,
+	"team_id": 22,
+	"player_name": "Cameron Payne",
+	"birth_date": 776318400,
+	"position": "185",
+	"draftkings_id": 792338
+}, {
+	"player_id": 1626167,
+	"team_id": 33,
+	"player_name": "Myles Turner",
+	"birth_date": 827643600,
+	"position": "243",
+	"draftkings_id": 843762
+}, {
+	"player_id": 1626168,
+	"team_id": 41,
+	"player_name": "Trey Lyles",
+	"birth_date": 815547600,
+	"position": "234",
+	"draftkings_id": 845596
+}, {
+	"player_id": 1626169,
+	"team_id": 3,
+	"player_name": "Stanley Johnson",
+	"birth_date": 833342400,
+	"position": "245",
+	"draftkings_id": 844331
+}, {
+	"player_id": 1626170,
+	"team_id": 13,
+	"player_name": "Jerian Grant",
+	"birth_date": 718603200,
+	"position": "195",
+	"draftkings_id": 552319
+}, {
+	"player_id": 1626171,
+	"team_id": 5,
+	"player_name": "Bobby Portis",
+	"birth_date": 792392400,
+	"position": "230",
+	"draftkings_id": 750703
+}, {
+	"player_id": 1626173,
+	"team_id": 20,
+	"player_name": "Rashad Vaughn",
+	"birth_date": 840168000,
+	"position": "202",
+	"draftkings_id": 847010
+}, {
+	"player_id": 1626174,
+	"team_id": 35,
+	"player_name": "Christian Wood",
+	"birth_date": 812174400,
+	"position": "220",
+	"draftkings_id": 750924
+}, {
+	"player_id": 1626175,
+	"team_id": 55,
+	"player_name": "Jordan Mickey",
+	"birth_date": 773726400,
+	"position": "235",
+	"draftkings_id": 745825
+}, {
+	"player_id": 1626178,
+	"team_id": 24,
+	"player_name": "Rondae Hollis-Jefferson",
+	"birth_date": 789109200,
+	"position": "220",
+	"draftkings_id": 0
+}, {
+	"player_id": 1626179,
+	"team_id": 12,
+	"player_name": "Terry Rozier",
+	"birth_date": 763880400,
+	"position": "190",
+	"draftkings_id": 786293
+}, {
+	"player_id": 1626181,
+	"team_id": 24,
+	"player_name": "Norman Powell",
+	"birth_date": 738302400,
+	"position": "215",
+	"draftkings_id": 609861
+}, {
+	"player_id": 1626185,
+	"team_id": 10,
+	"player_name": "Jarell Martin",
+	"birth_date": 769752000,
+	"position": "239",
+	"draftkings_id": 744245
+}, {
+	"player_id": 1626192,
+	"team_id": 5,
+	"player_name": "Pat Connaughton",
+	"birth_date": 726296400,
+	"position": "206",
+	"draftkings_id": 601514
+}, {
+	"player_id": 1626196,
+	"team_id": 0,
+	"player_name": "Josh Richardson",
+	"birth_date": 748065600,
+	"position": "200",
+	"draftkings_id": 604288
+}, {
+	"player_id": 1626199,
+	"team_id": 6,
+	"player_name": "Darrun Hilliard",
+	"birth_date": 734673600,
+	"position": "205",
+	"draftkings_id": 601538
+}, {
+	"player_id": 1626202,
+	"team_id": 1,
+	"player_name": "Joe Young",
+	"birth_date": 709617600,
+	"position": "180",
+	"draftkings_id": 553721
+}, {
+	"player_id": 1626204,
+	"team_id": 7,
+	"player_name": "Larry Nance Jr.",
+	"birth_date": 725864400,
+	"position": "230",
+	"draftkings_id": 0
+}, {
+	"player_id": 1626209,
+	"team_id": 23,
+	"player_name": "Mario Hezonja",
+	"birth_date": 793688400,
+	"position": "218",
+	"draftkings_id": 840595
+}, {
+	"player_id": 1626242,
+	"team_id": 44,
+	"player_name": "Luis Montero",
+	"birth_date": 734068800,
+	"position": "185",
+	"draftkings_id": 879539
+}, {
+	"player_id": 1626245,
+	"team_id": 6,
+	"player_name": "Cristiano Felicio",
+	"birth_date": 710481600,
+	"position": "275",
+	"draftkings_id": 839018
+}, {
+	"player_id": 1626246,
+	"team_id": 40,
+	"player_name": "Boban Marjanovic",
+	"birth_date": 587620800,
+	"position": "290",
+	"draftkings_id": 553331
+}, {
+	"player_id": 1626251,
+	"team_id": 26,
+	"player_name": "Duje Dukan",
+	"birth_date": 691822800,
+	"position": "220",
+	"draftkings_id": 551959
+}, {
+	"player_id": 1626257,
+	"team_id": 50,
+	"player_name": "Salah Mejri",
+	"birth_date": 519192000,
+	"position": "245",
+	"draftkings_id": 555263
+}, {
+	"player_id": 1626273,
+	"team_id": 9,
+	"player_name": "Marcelo Huertas",
+	"birth_date": 422683200,
+	"position": "200",
+	"draftkings_id": 553779
+}]

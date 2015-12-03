@@ -1,24 +1,29 @@
 import sys
 import json
+import os
+from os import path
 
 def main():
 
     if len(sys.argv) < 3:
 
-        print('ARG 1: Comma separated feature list - EX: a:Continuous,b:{ y, n }')
-        print('ARG 2: Input JSON filename')
-        print('ARG 3: Output filename')
+        print('ARG 1: Semicolon separated feature list - EX: a:Continuous;b:{ y, n }')
+        print('ARG 2: Output folder name')
         return
 
     featuresAndTypes = sys.argv[1].split(";")
     print(featuresAndTypes)
-    write_arff(featuresAndTypes, "data/" + sys.argv[2], sys.argv[3])
+
+    files = os.listdir("raw_data")
+    for f in files:
+        output_file = sys.argv[2] + '/' + f.split('.')[0] + ".arff"
+        write_arff(featuresAndTypes, "raw_data/" + f, output_file, f.split('.')[0])
 
 
-def write_arff(featuresAndTypes, filename, outputfile):
+def write_arff(featuresAndTypes, filename, outputfile, name):
 
-    arff = open("arffs/" + outputfile, 'w+')
-    arff.write('@relation ' + filename.split('.')[0] + '\n')
+    arff = open(outputfile, 'w+')
+    arff.write('@relation ' + name + '\n')
 
     all_teams = set()
     features = []
@@ -27,7 +32,7 @@ def write_arff(featuresAndTypes, filename, outputfile):
         pieces = featAndType.split(':')
         feat = pieces[0]
         type = pieces[1]
-        print(type)
+        #print(type)
 
         if type == 'Continuous':
             arff.write("@attribute %s %s" % (feat,type) + '\n')
@@ -36,7 +41,7 @@ def write_arff(featuresAndTypes, filename, outputfile):
 
         features.append(feat)
 
-    arff.write("@data")
+    arff.write("@data" + '\n')
     jsonstr = ''
     with open(filename, 'r') as jsonfile:
         jsonstr = jsonfile.read()
@@ -54,7 +59,7 @@ def write_arff(featuresAndTypes, filename, outputfile):
     for team in all_teams:
         all_teams_string += '\'' + str(team) + '\'' + ', '
     all_teams_string = all_teams_string[:-2]
-    print(all_teams_string)
+    #print(all_teams_string)
 
     arff.close()
     return
