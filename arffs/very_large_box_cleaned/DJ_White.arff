@@ -1,0 +1,10 @@
+@relation DJ_White
+@attribute box_fg3p Numeric
+@attribute box_fgp Numeric
+@attribute box_ftp Numeric
+@attribute box_minutes Numeric
+@attribute box_oreb Numeric
+@attribute box_pts Numeric
+@data
+0,0,0,244,0,0
+0,0.0,0,367,0,0

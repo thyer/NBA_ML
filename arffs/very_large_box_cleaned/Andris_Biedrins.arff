@@ -1,0 +1,14 @@
+@relation Andris_Biedrins
+@attribute box_fg3p Numeric
+@attribute box_fgp Numeric
+@attribute box_ftp Numeric
+@attribute box_minutes Numeric
+@attribute box_oreb Numeric
+@attribute box_pts Numeric
+@data
+0,0,0,249,0,0
+0,0,0,253,0,0
+0,1.0,0,426,1,2
+0,0,0.16666666666666666,811,0,1
+0,0,0,794,1,0
+0,0,0,142,0,0

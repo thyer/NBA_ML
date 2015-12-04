@@ -1,0 +1,12 @@
+@relation Patrick_Christopher
+@attribute box_fg3p Numeric
+@attribute box_fgp Numeric
+@attribute box_ftp Numeric
+@attribute box_minutes Numeric
+@attribute box_oreb Numeric
+@attribute box_pts Numeric
+@data
+0.0,0.0,0,262,0,0
+0.0,0.5,0,305,0,2
+0.0,0.25,0,760,1,4
+0,0.0,0,327,1,0

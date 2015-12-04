@@ -1,0 +1,12 @@
+@relation Josh_Childress
+@attribute box_fg3p Numeric
+@attribute box_fgp Numeric
+@attribute box_ftp Numeric
+@attribute box_minutes Numeric
+@attribute box_oreb Numeric
+@attribute box_pts Numeric
+@data
+0,0,0,331,0,0
+0,0,0,318,0,0
+0,0,0,634,0,0
+0,0,0,148,0,0

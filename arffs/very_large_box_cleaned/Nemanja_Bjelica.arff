@@ -1,0 +1,20 @@
+@relation Nemanja_Bjelica
+@attribute box_fg3p Numeric
+@attribute box_fgp Numeric
+@attribute box_ftp Numeric
+@attribute box_minutes Numeric
+@attribute box_oreb Numeric
+@attribute box_pts Numeric
+@data
+0.5,0.5,0,1356,0,8
+1.0,0.5,0.0,1541,0,3
+0.0,0.5,0.5,1885,3,5
+0.25,0.2857142857142857,0,1422,1,5
+0.3333333333333333,0.5555555555555556,0.8333333333333334,2413,1,17
+0.6,0.5714285714285714,1.0,1664,2,13
+0.5,0.6,0.25,2000,2,8
+0.4,0.5,0,1502,0,10
+0.0,0.4,0,1446,1,4
+0.0,0.0,0,936,0,0
+0.25,0.25,0,1118,0,3
+1.0,1.0,0,1308,0,10

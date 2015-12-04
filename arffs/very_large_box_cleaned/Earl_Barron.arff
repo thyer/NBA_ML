@@ -1,0 +1,22 @@
+@relation Earl_Barron
+@attribute box_fg3p Numeric
+@attribute box_fgp Numeric
+@attribute box_ftp Numeric
+@attribute box_minutes Numeric
+@attribute box_oreb Numeric
+@attribute box_pts Numeric
+@data
+0,1.0,0,235,1,2
+0,1.0,0,334,0,4
+0,0.0,0,436,0,0
+0,0,0,116,0,0
+0,0.0,0.5,800,0,1
+0,0.0,0,176,0,0
+0,0,0,75,0,0
+0.0,0.6,0,544,3,6
+0,0.0,0,389,0,0
+0,0.0,1.0,543,2,2
+0,0.0,0,634,0,0
+0,0.0,0.0,175,0,0
+0,0.5,0,555,0,2
+0.6666666666666666,0.5,0.5,1505,2,9

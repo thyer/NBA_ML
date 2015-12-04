@@ -1,0 +1,18 @@
+@relation Sonny_Weems
+@attribute box_fg3p Numeric
+@attribute box_fgp Numeric
+@attribute box_ftp Numeric
+@attribute box_minutes Numeric
+@attribute box_oreb Numeric
+@attribute box_pts Numeric
+@data
+0.0,0.0,0,915,0,0
+0.0,0.5,1.0,1008,0,3
+0.0,0.0,0,372,0,0
+0,0.0,0,453,0,0
+0,1.0,1.0,413,1,4
+0,0.0,0,342,0,0
+0,1.0,0,347,0,2
+0,0.0,0.0,500,0,0
+0.0,0.0,0,88,0,0
+0,0.0,0,657,0,0

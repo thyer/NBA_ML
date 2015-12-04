@@ -35,7 +35,7 @@ def write_arff(featuresAndTypes, filename, outputfile, name):
         #print(type)
 
         if type == 'Continuous':
-            arff.write("@attribute %s %s" % (feat,type) + '\n')
+            arff.write("@attribute %s %s" % (feat,'Numeric') + '\n')
         else:
             arff.write("@attribute \'%s\' %s" % (feat,type) + '\n')
 

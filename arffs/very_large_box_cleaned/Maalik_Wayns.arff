@@ -1,0 +1,10 @@
+@relation Maalik_Wayns
+@attribute box_fg3p Numeric
+@attribute box_fgp Numeric
+@attribute box_ftp Numeric
+@attribute box_minutes Numeric
+@attribute box_oreb Numeric
+@attribute box_pts Numeric
+@data
+0,0.0,0,198,0,0
+0,1.0,0,364,0,2

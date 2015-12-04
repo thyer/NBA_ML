@@ -1,0 +1,10 @@
+@relation Scotty_Hopson
+@attribute box_fg3p Numeric
+@attribute box_fgp Numeric
+@attribute box_ftp Numeric
+@attribute box_minutes Numeric
+@attribute box_oreb Numeric
+@attribute box_pts Numeric
+@data
+0,0,0.5,109,0,1
+0.0,0.0,0,297,0,0

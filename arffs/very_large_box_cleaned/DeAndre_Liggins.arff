@@ -1,0 +1,9 @@
+@relation DeAndre_Liggins
+@attribute box_fg3p Numeric
+@attribute box_fgp Numeric
+@attribute box_ftp Numeric
+@attribute box_minutes Numeric
+@attribute box_oreb Numeric
+@attribute box_pts Numeric
+@data
+0,1.0,0,84,1,2

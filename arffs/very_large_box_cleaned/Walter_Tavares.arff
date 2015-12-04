@@ -1,0 +1,11 @@
+@relation Walter_Tavares
+@attribute box_fg3p Numeric
+@attribute box_fgp Numeric
+@attribute box_ftp Numeric
+@attribute box_minutes Numeric
+@attribute box_oreb Numeric
+@attribute box_pts Numeric
+@data
+0,0,0.5,69,1,1
+0,0,0,57,0,0
+0,0,0,171,0,0

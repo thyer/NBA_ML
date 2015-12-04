@@ -1,0 +1,13 @@
+@relation Cliff_Alexander
+@attribute box_fg3p Numeric
+@attribute box_fgp Numeric
+@attribute box_ftp Numeric
+@attribute box_minutes Numeric
+@attribute box_oreb Numeric
+@attribute box_pts Numeric
+@data
+0,0.5,0,1044,1,4
+0,0.0,0,197,0,0
+0,0.5,0,240,0,2
+0,0.5,0,155,1,2
+0,0,0,52,0,0

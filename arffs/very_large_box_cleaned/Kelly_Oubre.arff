@@ -1,0 +1,17 @@
+@relation Kelly_Oubre
+@attribute box_fg3p Numeric
+@attribute box_fgp Numeric
+@attribute box_ftp Numeric
+@attribute box_minutes Numeric
+@attribute box_oreb Numeric
+@attribute box_pts Numeric
+@data
+0,0,0,67,0,0
+0.0,0.3333333333333333,0.3333333333333333,866,0,7
+0,0,0,57,0,0
+0.5,0.5,0.5,1550,0,11
+0.0,0.6666666666666666,0,586,0,4
+1.0,0.6666666666666666,0.5,484,0,7
+0.0,0.0,0,103,0,0
+0.0,0.0,1.0,780,0,4
+0,0.0,0,79,0,0

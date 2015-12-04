@@ -1,0 +1,12 @@
+@relation Tibor_Pleiss
+@attribute box_fg3p Numeric
+@attribute box_fgp Numeric
+@attribute box_ftp Numeric
+@attribute box_minutes Numeric
+@attribute box_oreb Numeric
+@attribute box_pts Numeric
+@data
+0,1.0,0,131,0,2
+0,0,0,72,0,0
+0,0,0,16,0,0
+0,0.3333333333333333,0,570,0,2

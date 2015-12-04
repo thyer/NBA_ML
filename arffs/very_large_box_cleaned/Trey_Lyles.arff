@@ -1,0 +1,21 @@
+@relation Trey_Lyles
+@attribute box_fg3p Numeric
+@attribute box_fgp Numeric
+@attribute box_ftp Numeric
+@attribute box_minutes Numeric
+@attribute box_oreb Numeric
+@attribute box_pts Numeric
+@data
+0,0.0,0,494,0,0
+0,0.0,0,453,0,0
+0,0.0,0.5,271,3,2
+0.0,0.0,0,547,0,0
+0,0.4,0,432,2,4
+0,0,0,68,0,0
+1.0,0.5,0,366,2,3
+0.0,0.25,0,1059,1,2
+0.0,0.42857142857142855,0,1004,0,6
+0,0,0,281,0,0
+0,1.0,0,431,1,2
+0,1.0,0.0,151,0,4
+0.0,0.2857142857142857,0,1096,1,4

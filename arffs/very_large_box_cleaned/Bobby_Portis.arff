@@ -1,0 +1,10 @@
+@relation Bobby_Portis
+@attribute box_fg3p Numeric
+@attribute box_fgp Numeric
+@attribute box_ftp Numeric
+@attribute box_minutes Numeric
+@attribute box_oreb Numeric
+@attribute box_pts Numeric
+@data
+0,0.7142857142857143,0,584,1,10
+0.0,0.3333333333333333,0,128,0,2

@@ -1,0 +1,17 @@
+@relation Lucas_Nogueira
+@attribute box_fg3p Numeric
+@attribute box_fgp Numeric
+@attribute box_ftp Numeric
+@attribute box_minutes Numeric
+@attribute box_oreb Numeric
+@attribute box_pts Numeric
+@data
+0,0.5,0.0,525,1,2
+0,0.0,0,124,0,0
+0,0.0,0,107,0,0
+0,0,0,98,0,0
+0,1.0,1.0,341,0,4
+0,0.0,0,188,1,0
+0,1.0,1.0,206,0,3
+0,0,0,71,0,0
+0.0,0.5,0,359,1,2

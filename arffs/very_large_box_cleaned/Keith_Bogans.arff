@@ -1,0 +1,14 @@
+@relation Keith_Bogans
+@attribute box_fg3p Numeric
+@attribute box_fgp Numeric
+@attribute box_ftp Numeric
+@attribute box_minutes Numeric
+@attribute box_oreb Numeric
+@attribute box_pts Numeric
+@data
+0.0,0.0,0,171,0,0
+0,0,0,745,0,0
+0,0,0,429,0,0
+0.0,0.0,0,337,0,0
+1.0,1.0,0,854,0,3
+0.6666666666666666,0.6666666666666666,1.0,777,0,9

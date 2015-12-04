@@ -1,0 +1,13 @@
+@relation Vander_Blue
+@attribute box_fg3p Numeric
+@attribute box_fgp Numeric
+@attribute box_ftp Numeric
+@attribute box_minutes Numeric
+@attribute box_oreb Numeric
+@attribute box_pts Numeric
+@data
+0,0.5,0.0,253,0,2
+0,0,0.5,441,0,1
+0.0,0.5,0.0,186,0,2
+0.5,0.42857142857142855,0.0,1543,0,7
+0.125,0.2608695652173913,0.6666666666666666,2880,2,15

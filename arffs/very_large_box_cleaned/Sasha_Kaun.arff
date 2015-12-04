@@ -1,0 +1,12 @@
+@relation Sasha_Kaun
+@attribute box_fg3p Numeric
+@attribute box_fgp Numeric
+@attribute box_ftp Numeric
+@attribute box_minutes Numeric
+@attribute box_oreb Numeric
+@attribute box_pts Numeric
+@data
+0,0,0,359,1,0
+0,0,0,88,0,0
+0,0,0,101,0,0
+0,0,0,63,1,0

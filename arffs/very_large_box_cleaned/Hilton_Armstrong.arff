@@ -1,0 +1,23 @@
+@relation Hilton_Armstrong
+@attribute box_fg3p Numeric
+@attribute box_fgp Numeric
+@attribute box_ftp Numeric
+@attribute box_minutes Numeric
+@attribute box_oreb Numeric
+@attribute box_pts Numeric
+@data
+0,0,0.0,431,1,0
+0,1.0,0,260,1,2
+0,0,0,289,2,0
+0,0.0,0.0,180,0,0
+0,0,0,8,0,0
+0,0,0,68,1,0
+0,1.0,0.5,460,2,4
+0,0.0,0,416,0,0
+0,0,0,0,0,0
+0,0.6,1.0,986,3,7
+0,0.3333333333333333,0,492,6,2
+0,0.0,0,276,1,0
+0,0,0,24,0,0
+0,0,0,11,0,0
+0,0.5,0.5714285714285714,1895,2,10

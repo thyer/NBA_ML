@@ -1,0 +1,20 @@
+@relation Arnett_Moultrie
+@attribute box_fg3p Numeric
+@attribute box_fgp Numeric
+@attribute box_ftp Numeric
+@attribute box_minutes Numeric
+@attribute box_oreb Numeric
+@attribute box_pts Numeric
+@data
+0,0.0,0,954,1,0
+0,0.3333333333333333,0,1052,0,2
+0,0.3333333333333333,0,523,0,2
+0,0.5,1.0,976,1,4
+0,0.6,0.0,1858,2,6
+0,0.3333333333333333,1.0,1697,4,6
+0,0.0,0,956,0,0
+0,0.5,0,1064,0,2
+0,0.0,0,453,0,0
+0,1.0,0,439,0,2
+0,0.8,0,827,2,8
+0,0.5,0,424,1,4

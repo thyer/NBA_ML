@@ -1,0 +1,10 @@
+@relation Darrun_Hilliard
+@attribute box_fg3p Numeric
+@attribute box_fgp Numeric
+@attribute box_ftp Numeric
+@attribute box_minutes Numeric
+@attribute box_oreb Numeric
+@attribute box_pts Numeric
+@data
+0.0,0.14285714285714285,0,760,1,2
+1.0,0.6666666666666666,0,165,1,5

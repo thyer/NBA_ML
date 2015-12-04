@@ -1,0 +1,22 @@
+@relation Hamady_Ndiaye
+@attribute box_fg3p Numeric
+@attribute box_fgp Numeric
+@attribute box_ftp Numeric
+@attribute box_minutes Numeric
+@attribute box_oreb Numeric
+@attribute box_pts Numeric
+@data
+0,0,0,22,0,0
+0,0.0,0,187,0,0
+0,0,0,30,0,0
+0,0.5,0.0,1475,1,2
+0,0,0,294,1,0
+0,0,0,234,0,0
+0,0,0,169,0,0
+0,0.0,0,296,1,0
+0,0.0,0,430,0,0
+0,0,0,108,1,0
+0,0.5,0,530,1,2
+0,1.0,0,554,0,2
+0,0,0,76,0,0
+0,0,0,51,0,0

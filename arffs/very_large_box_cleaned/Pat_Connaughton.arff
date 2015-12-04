@@ -1,0 +1,13 @@
+@relation Pat_Connaughton
+@attribute box_fg3p Numeric
+@attribute box_fgp Numeric
+@attribute box_ftp Numeric
+@attribute box_minutes Numeric
+@attribute box_oreb Numeric
+@attribute box_pts Numeric
+@data
+1.0,0.5,1.0,162,0,5
+0,0.0,0,215,0,0
+0,0.0,0,55,1,0
+0,0,0,68,0,0
+0,0,0,52,0,0

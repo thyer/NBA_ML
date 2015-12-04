@@ -1,0 +1,10 @@
+@relation JaMychal_Green
+@attribute box_fg3p Numeric
+@attribute box_fgp Numeric
+@attribute box_ftp Numeric
+@attribute box_minutes Numeric
+@attribute box_oreb Numeric
+@attribute box_pts Numeric
+@data
+0,0,0,347,0,0
+0,0,0,67,0,0
