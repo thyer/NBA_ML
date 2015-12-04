@@ -24,7 +24,7 @@
       <file leaf-file-name="A.J._Price.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/raw_data/A.J._Price.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-21.0">
+            <state vertical-scroll-proportion="0.0">
               <caret line="5345" column="0" selection-start-line="5345" selection-start-column="0" selection-end-line="5346" selection-end-column="0" />
               <folding />
             </state>
@@ -73,20 +73,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="commandparams.txt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="commandparams.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/commandparams.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="863" />
+            <state vertical-scroll-proportion="0.08585858">
+              <caret line="2" column="80" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Lebron_James.arff" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Lebron_James.arff" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/arffs/small_box/Lebron_James.arff">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.42929292">
+            <state vertical-scroll-proportion="0.0">
               <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
               <folding />
             </state>
@@ -184,6 +184,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -216,9 +217,26 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NBA_ML" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NBA_ML" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="arffs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="very_large_box" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -385,7 +403,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="NBA_ML" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NBADataParser.py" />
-      <option name="PARAMETERS" value="&quot;box_minutes:Continuous;opponent_id:{'1610612737','1610612738','1610612739','1610612740','1610612741','1610612742','1610612743','1610612744','1610612745','1610612746','1610612747','1610612748','1610612749','1610612750','1610612751','1610612752','1610612753','1610612754','1610612755','1610612756','1610612757','1610612758','1610612759','1610612760','1610612761','1610612762','1610612763','1610612764','1610612765','1610612766'};team_id:{'1610612737','1610612738','1610612739','1610612740','1610612741','1610612742','1610612743','1610612744','1610612745','1610612746','1610612747','1610612748','1610612749','1610612750','1610612751','1610612752','1610612753','1610612754','1610612755','1610612756','1610612757','1610612758','1610612759','1610612760','1610612761','1610612762','1610612763','1610612764','1610612765','1610612766'};box_pts:Continuous&quot; arffs/small_box" />
+      <option name="PARAMETERS" value="&quot;box_fg3a:Continuous;box_fg3m:Continuous;box_fga:Continuous;box_fgm:Continuous;box_fta:Continuous;box_ftm:Continuous;box_minutes:Continuous;opponent_id:{'1610612737','1610612738','1610612739','1610612740','1610612741','1610612742','1610612743','1610612744','1610612745','1610612746','1610612747','1610612748','1610612749','1610612750','1610612751','1610612752','1610612753','1610612754','1610612755','1610612756','1610612757','1610612758','1610612759','1610612760','1610612761','1610612762','1610612763','1610612764','1610612765','1610612766'};team_id:{'1610612737','1610612738','1610612739','1610612740','1610612741','1610612742','1610612743','1610612744','1610612745','1610612746','1610612747','1610612748','1610612749','1610612750','1610612751','1610612752','1610612753','1610612754','1610612755','1610612756','1610612757','1610612758','1610612759','1610612760','1610612761','1610612762','1610612763','1610612764','1610612765','1610612766'};box_oreb:Continuous;box_ast:Continuous;box_stl:Continuous;box_blk:Continuous;box_to:Continuous;box_pf:Continuous;box_pts:Continuous&quot; arffs/very_large_box" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
@@ -411,7 +429,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -455,11 +473,94 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/raw_data/A.J._Price.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5345" column="0" selection-start-line="5345" selection-start-column="0" selection-end-line="5346" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NBADataParser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="43" column="28" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arffs/large_box/Zoran_Dragic.arff">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arffs/large_box/Aaron_Brooks.arff">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arffs/lebron_james_stats.arff">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commandparams.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="863" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arffs/small_box/Lebron_James.arff">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NBADataDownloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/players.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4521" column="27" selection-start-line="4521" selection-start-column="27" selection-end-line="4521" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teams.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/players.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -467,7 +568,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -509,7 +609,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -517,7 +616,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -525,7 +623,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="12" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="653" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -533,7 +630,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -551,7 +647,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -559,7 +654,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -605,7 +699,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -613,7 +706,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -621,7 +713,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -629,7 +720,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -661,7 +751,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/raw_data/A.J._Price.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-21.0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="5345" column="0" selection-start-line="5345" selection-start-column="0" selection-end-line="5346" selection-end-column="0" />
           <folding />
         </state>
@@ -701,18 +791,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/commandparams.txt">
+    <entry file="file://$PROJECT_DIR$/arffs/small_box/Lebron_James.arff">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="863" />
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/arffs/small_box/Lebron_James.arff">
+    <entry file="file://$PROJECT_DIR$/commandparams.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42929292">
-          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        <state vertical-scroll-proportion="0.08585858">
+          <caret line="2" column="80" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
