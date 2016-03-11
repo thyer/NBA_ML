@@ -20,7 +20,7 @@ local.properties
 ## JetBrains
 #################
 
-.idea\
+.idea/*
 
 # External tool builders
 .externalToolBuilders/
