@@ -22,7 +22,24 @@ class PlayerArffToTeamArff:
             elif "@relation" in line.lower() or "@data" in line.lower():
                 continue
             else:
-                assert(len(line.split(",")) == len(self.player_files_schema))
+                feature_vector = line.split(",")
+                assert(len(feature_vector) == len(self.player_files_schema))
+                assert(self.player_files_schema[8] == "\'team_id\'")
+                games_info = None
+                if feature_vector[8] in self.teams_info.keys:
+                    games_info = self.teams_info.get(feature_vector[8])
+                else:
+                    games_info = GamesInfo()
+
+                games_info.add_game_data(feature_vector)
+
+
+class GamesInfo:
+    def __init__(self):
+        self.games = []
+
+    def add_game_data(self, info):
+
 
 
 def main():
