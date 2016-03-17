@@ -113,6 +113,7 @@ class GamesInfo:
                 "'1610612749','1610612750','1610612751','1610612752','1610612753','1610612754','1610612755',"
                 "'1610612756','1610612757','1610612758','1610612759','1610612760','1610612761','1610612762',"
                 "'1610612763','1610612764','1610612765','1610612766'}\n")
+        f.write("@attribute total_points_scored NUMERIC\n")
         f.write("@attribute total_players_accounted NUMERIC\n")
         f.write("@attribute average_time_played NUMERIC\n")
         f.write("@data\n")
