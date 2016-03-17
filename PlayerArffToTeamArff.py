@@ -8,14 +8,15 @@ class PlayerArffToTeamArff:
         self.teams_info = {}
         self.player_files_schema = []
         self.schema_read = False
+        self.game_id_list = []
         for f in files:
             self.process_player_file(f)
         for team in self.teams_info:
-            print("\n\nWriting file for team: " + str(team))
             self.teams_info[team].write_file(team)
+        for game in self.game_id_list:
+            print(game)
 
     def process_player_file(self, filename):
-        print("Processing file: " + str(filename))
         player_file = open(self.directory + filename)
         for line in player_file:
             line = line.strip()
@@ -28,8 +29,9 @@ class PlayerArffToTeamArff:
                 continue
             else:
                 feature_vector = line.split(",")
-                # print(line)
-                # print("Len feature vector: " + str(len(feature_vector)))
+                game_id = feature_vector[0]
+                if game_id not in self.game_id_list:
+                    self.game_id_list.append(game_id)
                 assert(len(feature_vector) == len(self.player_files_schema))
                 assert(self.player_files_schema[9] == "\'team_id\'")
                 team_id = feature_vector[9]
@@ -94,6 +96,8 @@ class GamesInfo:
 
         # schema: game_id, fg3a, fg3m, fg3m/a, etc., box minutes, opponent, total players, average time played
         f.write("@attribute game_id NUMERIC\n")
+        f.write("@attribute season_year NUMERIC\n")
+        f.write("@attribute finals_match {'T','F'}\n")
         f.write("@attribute fg3_attempted_total NUMERIC\n")
         f.write("@attribute fg3_made_total NUMERIC\n")
         f.write("@attribute fg3_percent_average NUMERIC\n")
@@ -111,18 +115,20 @@ class GamesInfo:
                 "'1610612763','1610612764','1610612765','1610612766'}\n")
         f.write("@attribute total_players_accounted NUMERIC\n")
         f.write("@attribute total_players_accounted NUMERIC\n")
+        f.write("@data\n")
         for key in sorted(self.games.keys()):
             game = self.games[key]
-            f.write(str(key) + ", " + str(game).strip("(").strip(")"))
+            game_id = key[4:]
+            season_year = key[1:3]
+            finals_match = "T" if '4' in str(key[0]) else "F"
+            f.write(str(game_id) + ", " + str(season_year) + ", " + finals_match + ", " +
+                    str(game).strip("(").strip(")"))
             average_time_played = game[9] / game[12]
             f.write(", " + str(average_time_played) + "\n")
 
 
-
 def main():
     patta = PlayerArffToTeamArff("arffs/very_large_box/")
-    # patta.write_files("arffs/team_arffs/")
-    # patta.write_summary_arff("teams_summary.arff")
 
 if __name__ == '__main__':
     main()
