@@ -114,7 +114,7 @@ class GamesInfo:
                 "'1610612756','1610612757','1610612758','1610612759','1610612760','1610612761','1610612762',"
                 "'1610612763','1610612764','1610612765','1610612766'}\n")
         f.write("@attribute total_players_accounted NUMERIC\n")
-        f.write("@attribute total_players_accounted NUMERIC\n")
+        f.write("@attribute average_time_played NUMERIC\n")
         f.write("@data\n")
         for key in sorted(self.games.keys()):
             game = self.games[key]
