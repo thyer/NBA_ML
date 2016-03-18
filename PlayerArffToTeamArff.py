@@ -1,4 +1,5 @@
 import os
+import json
 
 
 class PlayerArffToTeamArff:
@@ -49,6 +50,14 @@ class GamesInfo:
     def __init__(self):
         self.games = {}
         self.schema = None
+        self.team_map = {}
+        f = open("teams.json")
+        json_string = f.read()
+        teams = json.loads(json_string)
+        for team in teams:
+            extended_name = team['city'] + "_" + team['team_name']
+            self.team_map[str(team['team_id'])] = extended_name
+        f.close()
 
     def add_game_data(self, info, schema):
         assert(schema[0] == "game_id")
@@ -80,7 +89,7 @@ class GamesInfo:
                 average_ft, total_minutes, opponent, total_points, total_players_accounted)
 
     def generate_stats(self, new):
-        return new[1], new[2], 0, new[3], new[4], 0, new[5], new[6], 0, new[7], new[8], new[16], 1
+        return new[1], new[2], 0, new[3], new[4], 0, new[5], new[6], 0, new[7], self.team_map[new[8]], new[16], 1
 
     def get_stats_map(self):
         return self.games
@@ -91,8 +100,9 @@ class GamesInfo:
             print("\t" + str(self.games[key]))
 
     def write_file(self, name):
-        f = open("arffs/teams/" + str(name) + ".arff", 'w')
-        f.write("@relation " + str(name) + "\n")
+        filename = self.team_map[name]
+        f = open("arffs/teams/" + str(filename) + ".arff", 'w')
+        f.write("@relation " + str(filename) + "\n")
 
         # schema: game_id, fg3a, fg3m, fg3m/a, etc., box minutes, opponent, total players, average time played
         f.write("@attribute game_id NUMERIC\n")
@@ -108,11 +118,11 @@ class GamesInfo:
         f.write("@attribute ft_made_total NUMERIC\n")
         f.write("@attribute ft_percent_average NUMERIC\n")
         f.write("@attribute total_minutes NUMERIC\n")
-        f.write("@attribute opponent_id {'1610612737','1610612738','1610612739','1610612740','1610612741',"
-                "'1610612742','1610612743','1610612744','1610612745','1610612746','1610612747','1610612748',"
-                "'1610612749','1610612750','1610612751','1610612752','1610612753','1610612754','1610612755',"
-                "'1610612756','1610612757','1610612758','1610612759','1610612760','1610612761','1610612762',"
-                "'1610612763','1610612764','1610612765','1610612766'}\n")
+        ids = "@attribute opponent_id {"
+        for key in self.team_map.keys():
+            ids += self.team_map[key] + ","
+        ids = ids[:-1] + "}\n"
+        f.write(ids)
         f.write("@attribute total_points_scored NUMERIC\n")
         f.write("@attribute total_players_accounted NUMERIC\n")
         f.write("@attribute average_time_played NUMERIC\n")
@@ -126,6 +136,7 @@ class GamesInfo:
                     str(game).strip("(").strip(")"))
             average_time_played = game[9] / game[12]
             f.write(", " + str(average_time_played) + "\n")
+        f.close()
 
 
 def main():
