@@ -69,39 +69,41 @@ for (i in 1:length(allTeams)) {
   teamName <- teamNames[i]
   
   # Plot 3-pointers
-  fg3_attmpt_plot <- ggplot(arrange(team, season_year, game_id), aes(x=1:length(team[,1]), y=fg3_attempted_total, color = finals_match)) + geom_point() + geom_smooth() + xlab("Game Number")
-  fg3_made_plot <- ggplot(arrange(team, season_year, game_id), aes(x=1:length(team[,1]), y=fg3_made_total, color = finals_match)) + geom_point() + geom_smooth() + xlab("Game Number")
-  fg3_percen_avg_plot <- ggplot(arrange(team, season_year, game_id), aes(x=1:length(team[,1]), y=fg3_percent_average, color = finals_match)) + geom_point() + geom_smooth() + xlab("Game Number")
-  
+  fg3_attmpt_plot <- ggplot(arrange(team, season_year, game_id), aes(x=1:length(team[,1]), y=fg3_attempted_total, color = finals_match)) + 
+                      geom_point() + geom_smooth() + xlab("Game Number")
+  fg3_made_plot <- ggplot(arrange(team, season_year, game_id), aes(x=1:length(team[,1]), y=fg3_made_total, color = finals_match)) + 
+                      geom_point() + geom_smooth() + xlab("Game Number")
+
   # Calculate 2-pointers
   f2_attempted <- team$fg_attempted_total - team$fg3_attempted_total
   fg2_made <- team$fg_made_total - team$fg3_made_total
-  fg2_avg <- fg2_made / f2_attempted
-  
+
   # Plot 2-pointers
-  fg2_attmpt_plot <- ggplot(arrange(team, season_year, game_id), aes(x=1:length(team[,1]), y=f2_attempted, color = finals_match)) + geom_point() + geom_smooth() + xlab("Game Number")
-  fg2_made_plot <- ggplot(arrange(team, season_year, game_id), aes(x=1:length(team[,1]), y=fg2_made, color = finals_match)) + geom_point() + geom_smooth() + xlab("Game Number")
-  fg2_percen_avg_plot <- ggplot(arrange(team, season_year, game_id), aes(x=1:length(team[,1]), y=fg2_avg, color = finals_match)) + geom_point() + geom_smooth() + xlab("Game Number")
+  fg2_attmpt_plot <- ggplot(arrange(team, season_year, game_id), aes(x=1:length(team[,1]), y=f2_attempted, color = finals_match)) + 
+                      geom_point() + geom_smooth() + xlab("Game Number")
+  fg2_made_plot <- ggplot(arrange(team, season_year, game_id), aes(x=1:length(team[,1]), y=fg2_made, color = finals_match)) + 
+                      geom_point() + geom_smooth() + xlab("Game Number")
 
   # Plot all free throws 
-  fg_attmpt_plot <- ggplot(arrange(team, season_year, game_id), aes(x=1:length(team[,1]), y=fg_attempted_total, color = finals_match)) + geom_point() + geom_smooth() + xlab("Game Number")
-  fg_made_plot <- ggplot(arrange(team, season_year, game_id), aes(x=1:length(team[,1]), y=fg_made_total, color = finals_match)) + geom_point() + geom_smooth() + xlab("Game Number")
-  fg_percen_avg_plot <- ggplot(arrange(team, season_year, game_id), aes(x=1:length(team[,1]), y=fg_percent_average, color = finals_match)) + geom_point() + geom_smooth() + xlab("Game Number")
-  
-  # Total players accounted v. Average time played
-  players_v_time_total <- ggplot(arrange(team, season_year, game_id), aes(x=total_players_accounted, y=average_time_played, color = finals_match)) + geom_point() + geom_smooth() + scale_y_continuous(breaks=seq(from=min(team$average_time_played), to=max(team$average_time_played), by = 200))
-  players_v_time_notfinals <- ggplot(arrange(team[team$finals_match == " F",], season_year, game_id), aes(x=total_players_accounted, y=average_time_played)) + geom_point() + geom_smooth() + scale_y_continuous(breaks=seq(from=min(team$average_time_played), to=max(team$average_time_played), by = 200)) + ggtitle("Non-final games")
-  players_v_time_finals <- ggplot(arrange(team[team$finals_match == " T",], season_year, game_id), aes(x=total_players_accounted, y=average_time_played)) + geom_point() + geom_smooth() + scale_y_continuous(breaks=seq(from=min(team$average_time_played), to=max(team$average_time_played), by = 200)) + ggtitle("Final games")
-  
+  ft_attmpt_plot <- ggplot(arrange(team, season_year, game_id), aes(x=1:length(team[,1]), y=ft_attempted_total, color = finals_match)) + 
+                    geom_point() + geom_smooth() + xlab("Game Number")
+  ft_made_plot <- ggplot(arrange(team, season_year, game_id), aes(x=1:length(team[,1]), y=ft_made_total, color = finals_match)) + 
+                    geom_point() + geom_smooth() + xlab("Game Number")
+
+  # Game v. Total Players
+  game_v_total_players <- ggplot(arrange(team, season_year, game_id), aes(x=1:length(team[,1]), y=total_players_accounted, color = cut(season_year, c(-Inf, 13, 14, 15, Inf)))) + 
+                          geom_point() + geom_smooth() + xlab("Game Number") + ylab("Players per Game") + scale_color_manual(name = "Season Year", 
+                          values = c("(-Inf,13]" = "#F8766D", "(13,14]" = "#00BFC4", "(14,15]" = "#619CFF"), labels = c('2013', '2014', '2015'))
+
   if (!file.exists("plots")) {
   	dir.create(path = paste(getwd(), "/plots", sep = ""))
   }
   outfileName <- paste("plots/", teamName, ".tiff", sep = "")
-  tiff(file = outfileName, width = 6200, height = 6200, units = "px", res = 400)
-  multiplot(fg3_attmpt_plot, fg3_made_plot, fg3_percen_avg_plot,
-  			fg2_attmpt_plot, fg2_made_plot, fg2_percen_avg_plot, 
-  			fg_attmpt_plot, fg_made_plot, fg_percen_avg_plot,
-            players_v_time_total, players_v_time_notfinals, players_v_time_finals,
-            cols = 3)
+  tiff(file = outfileName, width = 5200, height = 5200, units = "px", res = 420)
+  multiplot(fg3_attmpt_plot, fg3_made_plot,
+  			fg2_attmpt_plot, fg2_made_plot, 
+  			ft_attmpt_plot, ft_made_plot,
+  			game_v_total_players,
+        cols = 2)
  dev.off()
 }
