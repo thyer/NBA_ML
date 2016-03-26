@@ -84,7 +84,7 @@ class GamesInfo:
         total_ftm = float(existing[7]) + float(new[6])
         average_ft = total_ftm/total_fta if total_fta > 0 else 0
         total_minutes = float(existing[9]) + float(new[7])
-        opponent = existing[10]
+        opponent = existing[10].replace(" ", "_")
         total_points = float(existing[11]) + float(new[16])
         total_players_accounted = float(existing[12] + 1)
         return (total_fg3a, total_fg3m, average_fg3, total_fga, total_fgm, average_fg, total_fta, total_ftm,

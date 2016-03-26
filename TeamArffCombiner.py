@@ -22,5 +22,5 @@ for f in files:
                 wrote_headers = True
         else:
             if "@" not in line:
-                label = f.split(".")[0]
+                label = f.split(".")[0].replace(" ", "_")
                 f_out.write(line[:-1] + ", " + label + "\n")
