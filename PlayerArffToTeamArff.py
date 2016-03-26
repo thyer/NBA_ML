@@ -1,5 +1,6 @@
 import os
 import json
+import re
 
 
 class PlayerArffToTeamArff:
@@ -56,6 +57,7 @@ class GamesInfo:
         teams = json.loads(json_string)
         for team in teams:
             extended_name = team['city'] + "_" + team['team_name']
+            extended_name.replace(" ", "_")
             self.team_map[str(team['team_id'])] = extended_name
         f.close()
 
@@ -120,7 +122,7 @@ class GamesInfo:
         f.write("@attribute total_minutes NUMERIC\n")
         ids = "@attribute opponent_id {"
         for key in self.team_map.keys():
-            ids += self.team_map[key] + ","
+            ids += self.team_map[key].replace(" ", "_") + ","
         ids = ids[:-1] + "}\n"
         f.write(ids)
         f.write("@attribute total_points_scored NUMERIC\n")
